@@ -4,6 +4,8 @@ These data include political contributions from employees of the [top ten U.S. t
 
 ## Explanation of Data
 
+`donations-top-ten-think-tanks-2012.csv`
+
 | Variable | Explanation |
 | --- | --- |
 | id | Integer assigned to each unique individual indentified in the raw data. |
@@ -17,3 +19,14 @@ These data include political contributions from employees of the [top ten U.S. t
 | Amount | Amount of the contribution. |
 | Recipient | The politician or partisan group receiving the reported contribution. |
 | Partisan Recipient | The know partisanship of the recipient. D is Democratic, R is Republican, L is Libertarian, and Other is other or unknown. |
+
+`990s-top-ten-think-tanks-2012.csv`
+
+| Variable | Explanation |
+| --- | --- |
+| Think Tank | The name of the think tank. |
+| Employees | The number of employees reported on the 2012 form 990 filed with the IRS. |
+| Revenue | The revenuses reported on the 2012 form 990 filed with the IRS. |
+| Expenses | The expenses reported on the 2012 form 990 filed with the IRS. |
+| Net Income | The net income reported on the 2012 form 990 filed with the IRS. |
+| Net Assets | The net assets reported on the 2012 form 990 filed with the IRS. |
