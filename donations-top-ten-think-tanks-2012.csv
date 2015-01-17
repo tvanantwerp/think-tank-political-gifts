@@ -1,0 +1,741 @@
+id,First Name,Last Name,City,State,Zip,Think Tank,Date,Amount,Recipient,Partisan Recipient
+1,HENRY,AARON,WASHINGTON,DC,20008,Brookings Institution,7/11/2012,2000,"Baldwin, Tammy (D)",D
+2,FRANKLIN A,AGUILO,WASHINGTON,DC,20016,Brookings Institution,5/29/2012,200,"Ryan, Paul (R)",R
+3,KAREN,ANDERSON,BETHESDA,MD,20814,Brookings Institution,10/2/2012,500,"Kaine, Tim (D)",D
+3,KAREN L,ANDERSON BOOZER,BETHESDA,MD,20814,Brookings Institution,9/18/2012,1000,"Obama, Barack (D)",D
+4,MELVIN,AYOGU,CENTREVILLE,VA,20121,Brookings Institution,12/22/2011,250,"Obama, Barack (D)",D
+5,JEFFREY ALLEN,BADER,CHEVY CHASE,MD,20815,Brookings Institution,6/25/2012,250,"Williams, Clyde (D)",D
+6,MARTIN,BAILY,GARRETT PARK,MD,20896,Brookings Institution,1/21/2011,500,DNC Services Corp (D),D
+6,MARTIN N,BAILY,GARRETT PARK,MD,20896,Brookings Institution,10/10/2012,500,"Obama, Barack (D)",D
+6,MARTIN N,BAILY,GARRETT PARK,MD,20896,Brookings Institution,12/12/2011,500,"Obama, Barack (D)",D
+6,MARTIN N,BAILY,GARRETT PARK,MD,20896,Brookings Institution,10/23/2012,500,"Obama, Barack (D)",D
+6,MARTIN N,BAILY,GARRETT PARK,MD,20896,Brookings Institution,9/13/2012,500,"Obama, Barack (D)",D
+7,DANIEL,BENJAMIN,WASHINGTON,DC,20002,Brookings Institution,9/21/2012,500,"Obama, Barack (D)",D
+8,STEVEN,BENNETT,WASHINGTON,DC,20012,Brookings Institution,10/17/2012,200,"Obama, Barack (D)",D
+8,STEVEN,BENNETT,WASHINGTON,DC,20012,Brookings Institution,7/25/2012,250,"Obama, Barack (D)",D
+8,STEVEN,BENNETT,WASHINGTON,DC,20012,Brookings Institution,9/7/2012,250,"Obama, Barack (D)",D
+8,STEVEN J,BENNETT,WASHINGTON,DC,20012,Brookings Institution,10/23/2012,250,"Maffei, Dan (D)",D
+8,STEVEN J,BENNETT,WASHINGTON,DC,20012,Brookings Institution,11/4/2011,500,"Maffei, Dan (D)",D
+8,STEVEN J,BENNETT,WASHINGTON,DC,20012,Brookings Institution,3/7/2012,250,"Maffei, Dan (D)",D
+9,ALAN,BERUBE,WASHINGTON,DC,20007,Brookings Institution,10/12/2012,375,"Obama, Barack (D)",D
+10,LAURIE,BOEDER,WASHINGTON,DC,20010,Brookings Institution,11/9/2011,850,"Heitkamp, Heidi (D)",D
+10,LAURIE,BOEDER,WASHINGTON,DC,20010,Brookings Institution,11/1/2012,1000,"Heitkamp, Heidi (D)",D
+11,GARY,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,7/31/2012,500,"Kaine, Tim (D)",D
+11,GARY,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,7/31/2012,250,Democratic Congressional Campaign Cmte (D),D
+11,GARY,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,10/19/2012,250,"Kaine, Tim (D)",D
+11,GARY,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,3/27/2012,500,"Obama, Barack (D)",D
+11,GARY,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,9/27/2012,250,Democratic Senatorial Campaign Cmte (D),D
+11,GARY,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,7/31/2012,250,Democratic Senatorial Campaign Cmte (D),D
+11,GARY T,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,9/27/2012,250,"Obama, Barack (D)",D
+11,GARY T,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,6/26/2012,500,"Obama, Barack (D)",D
+11,GARY T,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,8/31/2012,500,"Obama, Barack (D)",D
+11,GARY T,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,4/12/2011,500,"Obama, Barack (D)",D
+11,GARY T,BURTLESS,ALEXANDRIA,VA,22302,Brookings Institution,11/22/2011,250,"Obama, Barack (D)",D
+12,ROBERTA J,COHEN,WASHINGTON,DC,20007,Brookings Institution,10/12/2012,500,"Obama, Barack (D)",D
+12,ROBERTA J,COHEN,WASHINGTON,DC,20007,Brookings Institution,9/17/2012,500,"Obama, Barack (D)",D
+12,ROBERTA J,COHEN,WASHINGTON,DC,20007,Brookings Institution,4/26/2012,1000,"Obama, Barack (D)",D
+13,STEPHEN P,COHEN,WASHINGTON,DC,20001,Brookings Institution,7/20/2011,500,"Obama, Barack (D)",D
+13,STEPHEN P,COHEN,WASHINGTON,DC,20037,Brookings Institution,5/24/2012,500,"Obama, Barack (D)",D
+13,STEPHEN P,COHEN,WASHINGTON,DC,20037,Brookings Institution,8/21/2012,250,"Obama, Barack (D)",D
+14,LAWRENCE D,CONVERSE,WHEATON,MD,20902,Brookings Institution,1/24/2012,300,"Obama, Barack (D)",D
+15,ONA ALSTON,DOSUNMU,WASHINGTON,DC,20010,Brookings Institution,8/1/2011,250,"Obama, Barack (D)",D
+16,CHARLES K,EBINGER,CHEVY CHASE,MD,20815,Brookings Institution,9/30/2012,250,"Van Hollen, Chris (D)",D
+16,CHARLES K,EBINGER,CHEVY CHASE,MD,20815,Brookings Institution,9/28/2012,500,"Obama, Barack (D)",D
+16,CHARLES K,EBINGER,CHEVY CHASE,MD,20815,Brookings Institution,4/12/2012,300,"Obama, Barack (D)",D
+17,WILLIAM,GALSTON,BETHESDA,MD,20814,Brookings Institution,9/30/2012,1500,"Obama, Barack (D)",D
+17,WILLIAM,GALSTON,BETHESDA,MD,20814,Brookings Institution,9/25/2012,1000,"Obama, Barack (D)",D
+17,WILLIAM A,GALSTON,BETHESDA,MD,20814,Brookings Institution,8/19/2012,500,"Cherny, Andrei (D)",D
+18,STEPHEN,GRAND,ARLINGTON,VA,22207,Brookings Institution,9/20/2012,500,"Obama, Barack (D)",D
+18,STEPHEN,GRAND,ARLINGTON,VA,22207,Brookings Institution,8/29/2012,500,"Obama, Barack (D)",D
+19,RON,HASKINS,ROCKVILLE,MD,20852,Brookings Institution,2/16/2012,500,"Hirschbiel, Paul Odell Jr (D)",D
+20,MARTIN S,INDYK,WASHINGTON,DC,20009,Brookings Institution,10/25/2012,1000,"Berman, Howard L (D)",D
+20,MARTIN S,INDYK,WASHINGTON,DC,20009,Brookings Institution,12/5/2011,1000,"Berman, Howard L (D)",D
+21,CHRISTINE,JACOBS,WASHINGTON,DC,20010,Brookings Institution,10/14/2011,250,"Obama, Barack (D)",D
+21,CHRISTINE,JACOBS,WASHINGTON,DC,20010,Brookings Institution,8/31/2012,250,"Obama, Barack (D)",D
+21,CHRISTINE,JACOBS,WASHINGTON,DC,20010,Brookings Institution,3/9/2012,250,"Obama, Barack (D)",D
+22,ELISABETH,JACOBS,WASHINGTON,DC,20003,Brookings Institution,4/19/2012,250,"Obama, Barack (D)",D
+23,RAJALAKSHMI,JAGADEESAN,VENICE,FL,34293,Brookings Institution,10/6/2012,500,DNC Services Corp (D),D
+24,ELIZABETH,KNEEBONE,WASHINGTON,DC,20036,Brookings Institution,8/6/2012,200,"Obama, Barack (D)",D
+25,KAVITA,PATEL,WASHINGTON,DC,20008,Brookings Institution,12/16/2011,2000,"Carmona, Richard (D)",D
+25,KAVITA,PATEL,WASHINGTON,DC,20008,Brookings Institution,6/29/2012,500,"Carmona, Richard (D)",D
+25,KAVITA,PATEL,WASHINGTON,DC,20008,Brookings Institution,6/29/2012,500,"Carmona, Richard (D)",D
+26,THEODORE,PICCONE,WASHINGTON,DC,20007,Brookings Institution,9/11/2012,500,"Obama, Barack (D)",D
+26,THEODORE,PICCONE,WASHINGTON,DC,20007,Brookings Institution,9/21/2012,500,"Obama, Barack (D)",D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,10/11/2012,500,"Obama, Barack (D)",D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,7/9/2012,250,Democratic Senatorial Campaign Cmte (D),D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,7/31/2012,250,"Obama, Barack (D)",D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,9/25/2012,250,Democratic Senatorial Campaign Cmte (D),D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,10/4/2012,312,Democratic Senatorial Campaign Cmte (D),D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,6/26/2012,250,"Obama, Barack (D)",D
+27,JONATHAN,POLLACK,CHEVY CHASE,MD,20815,Brookings Institution,10/16/2012,250,Democratic Senatorial Campaign Cmte (D),D
+28,SUSAN E,RICE,WASHINGTON,DC,20016,Brookings Institution,10/17/2012,30000,DNC Services Corp (D),D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,1000,"Frankel, Lois J (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/27/2012,1000,"Donnelly, Joe (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,1000,"Kaine, Tim (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/30/2012,1000,"Kerrey, Bob (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/13/2012,500,"Demings, Val (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/27/2012,1000,"Berkley, Shelley (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/13/2012,500,"Bustos, Cheri (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,1000,"Baldwin, Tammy (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/8/2012,2500,"Obama, Barack (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/13/2012,500,"Berkley, Shelley (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,7/16/2012,500,"Berkley, Shelley (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,7/16/2012,500,"Sutton, Betty Sue (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,7/16/2012,500,"Gabbard, Tulsi (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,7/17/2012,500,"Roys, Kelda Helen (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,7/16/2012,500,"Clark, Tarryl (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,2/6/2011,1000,"Schwartz, Allyson (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,8/21/2012,1000,"McCaskill, Claire (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,1000,"McCaskill, Claire (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/24/2011,500,"Kilroy, Mary Jo (D)",D
+29,ALICE,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,2/20/2012,2500,"Obama, Barack (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,4/16/2012,1000,"Lugar, Richard G (R)",R
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/12/2012,500,"Schneider, Brad (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,12/20/2011,500,"Schwartz, Allyson (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/27/2012,1000,"Douglass, John (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,1000,"Carmona, Richard (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,500,"Cook, Adam (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/4/2012,1000,"Heitkamp, Heidi (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/27/2012,1000,"Heitkamp, Heidi (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/30/2012,1000,"Donnelly, Joe (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,9/13/2012,500,"Brownley, Julia (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,10/27/2012,1000,"Carmona, Richard (D)",D
+29,ALICE M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,11/6/2012,500,"Norton, Eleanor Holmes (D)",D
+29,ALICE MITCHELL M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,6/12/2012,1000,Democratic Senatorial Campaign Cmte (D),D
+29,ALICE MITCHELL M,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,7/9/2012,500,Democratic Senatorial Campaign Cmte (D),D
+29,ALICE MS,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,2/7/2011,1000,EMILY's List ,Other
+29,ALICE MS,RIVLIN,WASHINGTON,DC,20008,Brookings Institution,3/7/2012,2000,EMILY's List ,Other
+30,ISABEL,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,4/25/2012,1000,Cmte to Get Walker Running ,Other
+30,ISABEL,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,2666,Democratic Party of Wisconsin (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,666,New Hampshire Democratic State Cmte (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,5333,Democratic Party of Ohio (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,6/12/2012,500,"Udall, Mark (D)",D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,12/14/2011,2500,"Obama, Barack (D)",D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,1555,Democratic Party of Colorado (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,2222,Democratic Party of Nevada (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,10/17/2012,2000,Democratic Party of Virginia (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,12/14/2011,2500,"Obama, Barack (D)",D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,3333,Democratic Executive Cmte of Florida (D),D
+30,ISABEL V,SAWHILL,WASHINGTON,DC,20007,Brookings Institution,9/12/2012,2222,Democratic Party of Iowa (D),D
+31,KATHY,SIERRA,BETHESDA,MD,20816,Brookings Institution,9/27/2012,212,"Obama, Barack (D)",D
+31,KATHY,SIERRA,BETHESDA,MD,20816,Brookings Institution,10/22/2012,212,"Obama, Barack (D)",D
+33,MELISSA,SKOLFIELD,CHEVY CHASE,MD,20815,Brookings Institution,9/9/2012,250,"Obama, Barack (D)",D
+33,MELISSA,SKOLFIELD,CHEVY CHASE,MD,20815,Brookings Institution,12/30/2011,250,"Obama, Barack (D)",D
+34,STROBE (NELSON S),TALBOTT,WASHINGTON,DC,20036,Brookings Institution,11/4/2011,1000,"Lugar, Richard G (R)",R
+35,RODERICK,THOMPSON,WASHINGTON,DC,20009,Brookings Institution,5/27/2012,500,"Obama, Barack (D)",D
+36,RORY,THOMPSON,WASHINGTON,DC,20009,Brookings Institution,4/15/2011,2500,"Obama, Barack (D)",D
+36,RORY,THOMPSON,WASHINGTON,DC,20009,Brookings Institution,4/15/2011,2500,"Obama, Barack (D)",D
+37,JENNIE H,WOO,DAVIS,CA,95616,Brookings Institution,8/31/2012,200,"Obama, Barack (D)",D
+38,THOMAS,WRIGHT,WASHINGTON DC,DC,20005,Brookings Institution,10/30/2012,500,"Obama, Barack (D)",D
+39,THOMAS,CAROTHERS,WASHINGTON,DC,20016,Carnegie Endowment for International Peace,6/24/2012,1000,"Obama, Barack (D)",D
+40,JAMES F,COLLINS,BETHESDA,MD,20814,Carnegie Endowment for International Peace,12/29/2011,250,"Van Hollen, Chris (D)",D
+40,JAMES F,COLLINS,BETHESDA,MD,20814,Carnegie Endowment for International Peace,10/29/2012,250,"Obama, Barack (D)",D
+41,SHERMAN E,KATZ,WASHINGTON,DC,20008,Carnegie Endowment for International Peace,6/30/2011,1000,"Obama, Barack (D)",D
+41,SHERMAN E,KATZ,WASHINGTON,DC,20008,Carnegie Endowment for International Peace,7/9/2012,500,"Obama, Barack (D)",D
+41,SHERMAN E,KATZ,WASHINGTON,DC,20008,Carnegie Endowment for International Peace,7/9/2012,500,"Obama, Barack (D)",D
+41,SHERMAN E,KATZ,WASHINGTON,DC,20008,Carnegie Endowment for International Peace,2/6/2012,1000,"Obama, Barack (D)",D
+42,ALBERT III,KEIDEL,BETHESDA,MD,20816,Carnegie Endowment for International Peace,9/30/2012,500,DNC Services Corp (D),D
+42,ALBERT III,KEIDEL,BETHESDA,MD,20816,Carnegie Endowment for International Peace,9/14/2012,1000,DNC Services Corp (D),D
+42,ALBERT III,KEIDEL,BETHESDA,MD,20816,Carnegie Endowment for International Peace,10/27/2012,1000,DNC Services Corp (D),D
+43,JESSICA,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,5/4/2012,250,"Lugar, Richard G (R)",R
+43,JESSICA,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,9/27/2012,1500,DNC Services Corp (D),D
+43,JESSICA,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,3/29/2012,1000,"Warren, Elizabeth (D)",D
+43,JESSICA,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,10/21/2012,1000,DNC Services Corp (D),D
+43,JESSICA,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,9/30/2012,1425,Democratic Party of Virginia (D),D
+43,JESSICA T,MATHEWS,MARSHALL,VA,20115,Carnegie Endowment for International Peace,10/1/2012,1000,"Kaine, Tim (D)",D
+43,JESSICA T,MATHEWS,MARSHALL,VA,20115,Carnegie Endowment for International Peace,12/21/2011,500,"Kaine, Tim (D)",D
+43,JESSICA T,MATHEWS,MARSHALL,VA,20115,Carnegie Endowment for International Peace,3/29/2012,1000,"Kaine, Tim (D)",D
+43,JESSICA T,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,6/19/2012,1000,Democratic Congressional Campaign Cmte (D),D
+43,JESSICA TUCHMAN,MATHEWS,FALLS CHURCH,VA,22046,Carnegie Endowment for International Peace,9/28/2012,2500,"Obama, Barack (D)",D
+44,MARK C,MEDISH,WASHINGTON,DC,20007,Carnegie Endowment for International Peace,6/30/2012,2500,"Obama, Barack (D)",D
+44,MARK C,MEDISH,WASHINGTON,DC,20007,Carnegie Endowment for International Peace,6/25/2012,5000,DNC Services Corp (D),D
+44,MARK C,MEDISH,WASHINGTON,DC,20007,Carnegie Endowment for International Peace,6/30/2012,2500,"Obama, Barack (D)",D
+45,GEORGE,PERKOVICH,WASHINGTON,DC,20007,Carnegie Endowment for International Peace,9/21/2012,500,"Kaine, Tim (D)",D
+45,GEORGE,PERKOVICH,WASHINGTON,DC,20007,Carnegie Endowment for International Peace,8/11/2012,1000,"Obama, Barack (D)",D
+46,DAVID D,BOAZ,ARLINGTON,VA,22201,Cato Institute,6/28/2011,600,Term Limits America ,Other
+46,DAVID D,BOAZ,ARLINGTON,VA,22201,Cato Institute,6/28/2012,600,Term Limits America ,Other
+46,DAVID D,BOAZ,ARLINGTON,VA,22201,Cato Institute,4/24/2012,250,"Tisei, Richard (R)",R
+46,DAVID MR,BOAZ,ARLINGTON,VA,22201,Cato Institute,2/6/2012,500,"Amash, Justin (R)",R
+47,MARK,CALABRIA,WASHINGTON,DC,20009,Cato Institute,9/29/2012,250,"Hayworth, Nan (R)",R
+48,EDWARD H,CRANE,FALLS CHURCH,VA,22044,Cato Institute,11/5/2012,250,"Johnson, Gary (L)",L
+48,EDWARD H III,CRANE,FALLS CHURCH,VA,22044,Cato Institute,6/24/2011,1000,"Flake, Jeff (R)",R
+48,EDWARD H III,CRANE,FALLS CHURCH,VA,22044,Cato Institute,6/20/2012,1000,"Flake, Jeff (R)",R
+49,THERESA L,KIBBE,WASHINGTON,DC,20002,Cato Institute,8/19/2012,1000,"Mourdock, Richard E (R)",R
+50,DAVID,LAMPO,WASHINGTON,DC,20001,Cato Institute,5/27/2011,250,"Brown, Scott (R)",R
+50,DAVID,LAMPO,WASHINGTON,DC,20001,Cato Institute,9/30/2012,250,"Tisei, Richard (R)",R
+50,DAVID,LAMPO,WASHINGTON,DC,20001,Cato Institute,4/24/2012,250,"Tisei, Richard (R)",R
+51,ALAN,REYNOLDS,RESTON,VA,20194,Cato Institute,8/11/2012,1000,"Romney, Mitt (R)",R
+51,ALAN,REYNOLDS,RESTON,VA,20194,Cato Institute,10/4/2012,1000,"Romney, Mitt (R)",R
+52,ILYA,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,4/27/2011,250,"Hasner, Adam (R)",R
+52,ILYA,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,3/15/2012,250,"Hegseth, Pete (R)",R
+52,ILYA,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,4/10/2012,500,"Mandel, Josh (R)",R
+52,ILYA,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,8/15/2012,250,"Hasner, Adam (R)",R
+52,ILYA,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,2/23/2012,250,"Kelly, Jesse (R)",R
+52,ILYA MS,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,2/11/2011,250,"Cruz, Ted (R)",R
+52,ILYA MS,SHAPIRO,WASHINGTON,DC,20001,Cato Institute,6/29/2012,250,"Cruz, Ted (R)",R
+53,MARK,AGRAST,WASHINGTON,DC,20011,Center for American Progress,9/30/2012,250,Democratic Senatorial Campaign Cmte (D),D
+53,MARK D,AGRAST,WASHINGTON,DC,20011,Center for American Progress,9/30/2012,250,Democratic Congressional Campaign Cmte (D),D
+54,LAUREN,BAZEL,ALEXANDRIA,VA,22309,Center for American Progress,3/18/2011,500,"Cantwell, Maria (D)",D
+55,MELISSA,BOTEACH,WASHINGTON,DC,20001,Center for American Progress,9/7/2012,250,"Obama, Barack (D)",D
+56,HEATHER MS,BOUSHEY,WASHINGTON,DC,20009,Center for American Progress,6/21/2011,250,"DeLauro, Rosa L (D)",D
+57,JOHN C,BRADSHAW,WASHINGTON,DC,20015,Center for American Progress,9/13/2012,250,"Obama, Barack (D)",D
+58,GADI,DECHTER,WASHINGTON,MD,20008,Center for American Progress,10/17/2012,250,"Obama, Barack (D)",D
+59,RUDY,DELEON,WASHINGTON,DC,20005,Center for American Progress,1/27/2012,500,"Hahn, Janice (D)",D
+59,RUDY,DELEON,WASHINGTON,DC,20005,Center for American Progress,9/19/2012,500,"Hahn, Janice (D)",D
+59,RUDY,DELEON,ARLINGTON,VA,22201,Center for American Progress,6/27/2011,500,"Hahn, Janice (D)",D
+59,RUDY,DELEON,WASHINGTON,DC,20005,Center for American Progress,9/6/2011,1000,"Douglass, John (D)",D
+59,RUDY,DELEON,ARLINGTON,VA,22201,Center for American Progress,9/21/2012,1000,"Obama, Barack (D)",D
+60,NATHAN,FENSTERMACHER,WASHINGTON,DC,20009,Center for American Progress,7/9/2012,250,"Obama, Barack (D)",D
+61,TAMARA MS,FUCILE,WASHINGTON,DC,20003,Center for American Progress,6/23/2011,250,"DeLauro, Rosa L (D)",D
+62,GLEN S,FUKUSHIMA,WASHINGTON,DC,20037,Center for American Progress,10/24/2012,1500,"Duckworth, Tammy (D)",D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,12/26/2011,1196,Democratic Party of Pennsylvania (D),D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,4/15/2011,2500,"Obama, Barack (D)",D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,12/30/2011,1012,Democratic Party of Virginia (D),D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,12/26/2011,1564,Democratic Executive Cmte of Florida (D),D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,4/15/2011,2500,"Obama, Barack (D)",D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,12/26/2011,276,New Hampshire Democratic State Cmte (D),D
+63,NINA,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,12/26/2011,552,Democratic Party of Wisconsin (D),D
+63,NINA L,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,5/15/2012,2500,"Williams, Clyde (D)",D
+63,NINA L,HACHIGIAN,LOS ANGELES,CA,90026,Center for American Progress,12/20/2011,2500,"Williams, Clyde (D)",D
+64,MICHELE,JOLIN,WASHINGTON,DC,20016,Center for American Progress,6/24/2011,1000,"Khazei, Alan (D)",D
+64,MICHELE M,JOLIN,WASHINGTON,DC,20016,Center for American Progress,10/5/2012,250,DNC Services Corp (D),D
+64,MICHELE M,JOLIN,WASHINGTON,DC,20016,Center for American Progress,2/29/2012,5000,DNC Services Corp (D),D
+65,BRIAN,KATULIS,POTOMAC,MD,20854,Center for American Progress,9/21/2012,500,"Obama, Barack (D)",D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,2500,"Obama, Barack (D)",D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,7345,Democratic Executive Cmte of Florida (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,1728,New Hampshire Democratic State Cmte (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,6913,Democratic Party of Ohio (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,2592,Democratic Party of Nevada (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,4753,Democratic Party of North Carolina (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,4753,Democratic Party of Colorado (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,2500,"Obama, Barack (D)",D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,10/16/2012,4753,Democratic Party of Virginia (D),D
+66,MARGARET,KNUDSON,WASHINGTON,DC,20011,Center for American Progress,8/23/2012,2160,Democratic Party of Iowa (D),D
+67,JEFF,KREHELY,WASHINGTON,DC,20001,Center for American Progress,5/9/2012,250,"Obama, Barack (D)",D
+68,NICHOLAS,LEPHAM,WASHINGTON,DC,20016,Center for American Progress,4/29/2011,250,"Obama, Barack (D)",D
+68,NICHOLAS,LEPHAM,WASHINGTON,DC,20016,Center for American Progress,3/8/2012,250,"Warren, Elizabeth (D)",D
+68,NICHOLAS MR,LEPHAM,WASHINGTON,DC,20016,Center for American Progress,4/23/2012,250,Women Vote! ,Other
+69,TARA,MCGUINNESS,WASHINGTON,DC,20009,Center for American Progress,6/28/2012,500,"Obama, Barack (D)",D
+70,IAN,MILLHISER,ARLINGTON,VA,22201,Center for American Progress,12/6/2011,250,"Obama, Barack (D)",D
+71,AISHA,MOODIE-MILLS,WASHINGTON,DC,20009,Center for American Progress,6/14/2011,500,Democratic Congressional Campaign Cmte (D),D
+72,ANDRE,PINEDA,PASADENA,CA,91104,Center for American Progress,7/11/2011,250,"Khazei, Alan (D)",D
+73,JOHN,PODESTA,WASHINGTON,DC,20016,Center for American Progress,6/1/2012,500,"Maloney, Sean Patrick (D)",D
+73,JOHN,PODESTA,WASHINGTON,DC,20016,Center for American Progress,9/21/2012,500,"Bustos, Cheri (D)",D
+73,JOHN D,PODESTA,WASHINGTON,DC,20016,Center for American Progress,10/16/2012,500,"King, Angus (I)",Other
+73,JOHN D,PODESTA,WASHINGTON,DC,20016,Center for American Progress,8/19/2012,500,"Cherny, Andrei (D)",D
+73,JOHN D,PODESTA,WASHINGTON,DC,20016,Center for American Progress,5/21/2012,1000,"Baldwin, Tammy (D)",D
+73,JOHN D,PODESTA,WASHINGTON,DC,20016,Center for American Progress,5/16/2012,500,"Heitkamp, Heidi (D)",D
+73,JOHN D,PODESTA,WASHINGTON,DC,20016,Center for American Progress,8/19/2012,500,"Obama, Barack (D)",D
+74,ROBIN,REED,WASHINGTON,DC,20012,Center for American Progress,10/10/2012,250,"Obama, Barack (D)",D
+75,ALFRED M,ROTONDARO,SHADY SIDE,MD,20764,Center for American Progress,7/2/2012,1000,"Obama, Barack (D)",D
+75,FRED,ROTONDARO,SHADY SIDE,MD,20764,Center for American Progress,3/20/2012,2500,"Warren, Elizabeth (D)",D
+75,FRED,ROTONDARO,SHADY SIDE,MD,20764,Center for American Progress,3/20/2012,2500,"Warren, Elizabeth (D)",D
+76,AARON,SHAPIRO,SKOKIE,IL,60076,Center for American Progress,10/26/2012,500,"Obama, Barack (D)",D
+77,CHRISTOPHER,SPIRO,WASHINGTON,DC,20010,Center for American Progress,9/3/2012,500,"Obama, Barack (D)",D
+78,CYNTHIA,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,6/14/2011,2500,Democratic Congressional Campaign Cmte (D),D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,10/6/2012,750,DNC Services Corp (D),D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,11/4/2012,750,Democratic Congressional Campaign Cmte (D),D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,11/2/2012,1000,"Cicilline, David (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,5/21/2012,2500,"Baldwin, Tammy (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,8/31/2012,400,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/7/2012,500,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/28/2012,500,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/21/2012,500,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,3/30/2012,1000,"Cicilline, David (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/14/2012,500,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/30/2011,1000,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/7/2012,500,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,5/9/2012,1000,"Obama, Barack (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,9/30/2011,1000,"Cicilline, David (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,6/9/2011,2500,"Baldwin, Tammy (D)",D
+78,WINNIE,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,11/2/2012,500,DNC Services Corp (D),D
+78,WINNIE CYNTHIA,STACHELBERG,WASHINGTON,DC,20016,Center for American Progress,6/30/2012,500,"Pocan, Mark (D)",D
+79,WILL,THOMAS,SPRINGDALE,MD,20774,Center for American Progress,1/4/2011,250,DNC Services Corp (D),D
+80,HEATHER MS,CONLEY,CHEVY CHASE,MD,20815,Center for Strategic and International Studies,7/22/2012,1000,"Romney, Mitt (R)",R
+81,JENNIFER,COOKE,WASHINGTON,DC,20009,Center for Strategic and International Studies,8/17/2012,1000,"Obama, Barack (D)",D
+81,JENNIFER,COOKE,WASHINGTON,DC,20009,Center for Strategic and International Studies,10/12/2012,500,"Obama, Barack (D)",D
+81,JENNIFER,COOKE,WASHINGTON,DC,20009,Center for Strategic and International Studies,9/28/2012,1000,"Obama, Barack (D)",D
+82,JOHANNA MENDELSON,FORMAN,BETHESDA,MD,20816,Center for Strategic and International Studies,6/22/2012,250,"Cardin, Ben (D)",D
+83,MATTHEW,GOODMAN,WASHINGTON,DC,20016,Center for Strategic and International Studies,2/29/2012,250,"Williams, Clyde (D)",D
+84,JOHN J,HAMRE,BETHESDA,MD,20816,Center for Strategic and International Studies,12/24/2012,2000,ITT Industries ,Other
+85,KATHLEEN,HICKS,ALEXANDRIA,VA,22305,Center for Strategic and International Studies,9/4/2012,1000,"Obama, Barack (D)",D
+85,KATHLEEN,HICKS,ALEXANDRIA,VA,22305,Center for Strategic and International Studies,4/2/2012,1000,"Obama, Barack (D)",D
+86,LOUIS,LAUTER,WASHINGTON,DC,20007,Center for Strategic and International Studies,10/24/2012,250,"Obama, Barack (D)",D
+87,DEREK J,MITCHELL,WASHINGTON,DC,20007,Center for Strategic and International Studies,10/29/2012,500,DNC Services Corp (D),D
+88,NICHOLAS,WILSON,WASHINGTON,DC,20011,Center for Strategic and International Studies,8/29/2012,250,"Obama, Barack (D)",D
+89,ELLIOTT,ABRAMS,GREAT FALLS,VA,22066,Council on Foreign Relations,9/24/2012,250,"Mandel, Josh (R)",R
+89,ELLIOTT,ABRAMS,GREAT FALLS,VA,22066,Council on Foreign Relations,9/24/2012,250,"Cotton, Thomas (R)",R
+89,ELLIOTT MR,ABRAMS,GREAT FALLS,VA,22066,Council on Foreign Relations,6/14/2012,500,"Romney, Mitt (R)",R
+89,ELLIOTT MR,ABRAMS,GREAT FALLS,VA,22066,Council on Foreign Relations,9/3/2012,500,"Romney, Mitt (R)",R
+90,JARED,COHEN,NEW YORK,NY,10011,Council on Foreign Relations,9/26/2011,500,"Lugar, Richard G (R)",R
+91,STEVEN A PHD,COOK,POTOMAC,MD,20854,Council on Foreign Relations,3/31/2012,500,"Sinema, Kyrsten (D)",D
+92,LAURIE,GARRETT,BROOKLYN,NY,11201,Council on Foreign Relations,6/20/2012,1000,"Obama, Barack (D)",D
+92,LAURIE,GARRETT,BROOKLYN,NY,11201,Council on Foreign Relations,9/20/2012,1000,"Obama, Barack (D)",D
+92,LAURIE,GARRETT,BROOKLYN,NY,11201,Council on Foreign Relations,9/20/2012,250,"Warren, Elizabeth (D)",D
+93,JAMES E JR,HOGE,NEW YORK,NY,10021,Council on Foreign Relations,5/16/2012,250,"Murphy, Christopher S (D)",D
+93,JAMES E JR,HOGE,NEW YORK,NY,10021,Council on Foreign Relations,3/23/2012,250,"Murphy, Christopher S (D)",D
+94,JEFFREY,REINKE,NEW YORK,NY,10012,Council on Foreign Relations,5/9/2012,250,"Obama, Barack (D)",D
+95,ROBERT E,RUBIN,NEW YORK,NY,10075,Council on Foreign Relations,3/28/2012,2500,"Tester, Jon (D)",D
+95,ROBERT E,RUBIN,NEW YORK,NY,10075,Council on Foreign Relations,8/8/2012,2500,"Tester, Jon (D)",D
+95,ROBERT E,RUBIN,NEW YORK,NY,10075,Council on Foreign Relations,12/11/2012,2500,"Baucus, Max (D)",D
+95,ROBERT E,RUBIN,NEW YORK,NY,10075,Council on Foreign Relations,6/22/2011,2000,"Carper, Tom (D)",D
+96,LISA,SHIELDS,NEW YORK,NY,10003,Council on Foreign Relations,9/23/2012,1000,"Gillibrand, Kirsten (D)",D
+97,JOHN,SWING,NEW YORK,NY,10028,Council on Foreign Relations,3/29/2012,500,Democratic Senatorial Campaign Cmte (D),D
+97,JOHN,SWING,NEW YORK,NY,10028,Council on Foreign Relations,12/9/2011,250,Democratic Senatorial Campaign Cmte (D),D
+98,JONATHAN,TEPPERMAN,BROOKLYN,NY,11215,Council on Foreign Relations,9/22/2012,500,"Obama, Barack (D)",D
+99,CHRISTOPHER M MR,TUTTLE,ALEXANDRIA,VA,22307,Council on Foreign Relations,8/13/2012,1000,"Romney, Mitt (R)",R
+99,CHRISTOPHER M MR,TUTTLE,ALEXANDRIA,VA,22307,Council on Foreign Relations,10/25/2012,250,"Thompson, Tommy G (R)",R
+99,CHRISTOPHER M MR,TUTTLE,ALEXANDRIA,VA,22307,Council on Foreign Relations,4/25/2012,250,Republican National Cmte (R),R
+99,CHRISTOPHER M MR,TUTTLE,ALEXANDRIA,VA,22307,Council on Foreign Relations,10/24/2012,250,"Romney, Mitt (R)",R
+99,CHRISTOPHER M MR,TUTTLE,ALEXANDRIA,VA,22307,Council on Foreign Relations,11/9/2011,500,"Thompson, Tommy G (R)",R
+100,PATRICIA D,WINTERER,KEENE,NY,12942,Council on Foreign Relations,10/24/2012,500,"Obama, Barack (D)",D
+101,PHILIP S,WINTERER,KEENE,NY,12942,Council on Foreign Relations,7/18/2012,500,"Obama, Barack (D)",D
+101,PHILIP S,WINTERER,KEENE,NY,12942,Council on Foreign Relations,9/18/2012,1000,"Obama, Barack (D)",D
+102,DAVID,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,6/5/2012,250,"Fischer, Deb (R)",R
+102,DAVID,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,11/5/2012,250,"Ryan, Paul (R)",R
+102,DAVID,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,5/25/2012,250,"Mourdock, Richard E (R)",R
+102,DAVID MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,4/29/2011,250,"Wilson, Heather A (R)",R
+102,DAVID MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,6/14/2012,250,"Barrasso, John A (R)",R
+102,DAVID MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,6/14/2012,250,"Barrasso, John A (R)",R
+102,DAVID S MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,11/1/2012,250,"Romney, Mitt (R)",R
+102,DAVID S MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,6/5/2012,250,"Wilson, Heather A (R)",R
+102,DAVID S MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,8/9/2012,250,"Romney, Mitt (R)",R
+102,DAVID S MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,8/6/2012,250,"Cruz, Ted (R)",R
+102,DAVID S MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,7/18/2012,250,"Romney, Mitt (R)",R
+102,DAVID S MR,ADDINGTON,ALEXANDRIA,VA,22301,Heritage Foundation,9/18/2012,250,"Romney, Mitt (R)",R
+103,BRIAN,BLAKE,LORTON,VA,22079,Heritage Foundation,10/14/2011,250,"Romney, Mitt (R)",R
+104,RAYMOND BRIAN MR,BLAKE,LORTON,VA,22079,Heritage Foundation,8/16/2012,1000,"Romney, Mitt (R)",R
+104,RAYMOND BRIAN MR,BLAKE,LORTON,VA,22079,Heritage Foundation,10/29/2012,500,"Romney, Mitt (R)",R
+104,RAYMOND BRIAN MR,BLAKE,LORTON,VA,22079,Heritage Foundation,10/26/2011,1000,"Romney, Mitt (R)",R
+105,PETER T MR,BROOKES,SPRINGFIELD,VA,22153,Heritage Foundation,7/25/2012,200,"Romney, Mitt (R)",R
+105,PETER T MR,BROOKES,SPRINGFIELD,VA,22153,Heritage Foundation,8/22/2012,2250,"Romney, Mitt (R)",R
+105,PETER T MR,BROOKES,SPRINGFIELD,VA,22153,Heritage Foundation,10/25/2012,-2250,"Romney, Mitt (R)",R
+105,PETER T MR,BROOKES,SPRINGFIELD,VA,22153,Heritage Foundation,10/25/2012,2250,"Romney, Mitt (R)",R
+105,PETER T MR,BROOKES,SPRINGFIELD,VA,22153,Heritage Foundation,10/25/2012,2500,"Romney, Mitt (R)",R
+106,ELAINE,CHAO,LOUISVILLE,KY,40205,Heritage Foundation,5/23/2012,2500,"McConnell, Mitch (R)",R
+106,ELAINE,CHAO,LOUISVILLE,KY,40205,Heritage Foundation,5/23/2012,2500,"McConnell, Mitch (R)",R
+106,ELAINE L,CHAO,WASHINGTON,DC,20002,Heritage Foundation,8/18/2011,425,Protective Life Corp ,Other
+106,ELAINE L,CHAO,WASHINGTON,DC,20002,Heritage Foundation,11/17/2011,425,Protective Life Corp ,Other
+106,ELAINE L,CHAO,WASHINGTON,DC,20002,Heritage Foundation,8/15/2012,425,Protective Life Corp ,Other
+106,ELAINE L,CHAO,WASHINGTON,DC,20002,Heritage Foundation,2/17/2012,425,Protective Life Corp ,Other
+106,ELAINE L,CHAO,WASHINGTON,DC,20002,Heritage Foundation,5/15/2012,425,Protective Life Corp ,Other
+106,ELAINE L,CHAO,WASHINGTON,DC,20002,Heritage Foundation,11/20/2012,425,Protective Life Corp ,Other
+106,ELAINE L MS,CHAO,WASHINGTON,DC,20002,Heritage Foundation,4/23/2012,2500,"Romney, Mitt (R)",R
+107,ARIEL,COHEN,ROCKVILLE,MD,20853,Heritage Foundation,2/7/2012,2500,"Romney, Mitt (R)",R
+108,EMILY,COOPER,ARLINGTON,VA,22201,Heritage Foundation,12/22/2011,250,"Brunner, John (R)",R
+109,RORY,COOPER,HYATTSVILLE,MD,20781,Heritage Foundation,8/25/2011,250,"Wilbanks, Chad (R)",R
+109,RORY S MR,COOPER,HYATTSVILLE,MD,20781,Heritage Foundation,6/28/2012,250,"Romney, Mitt (R)",R
+110,LISA,CURTIS,HERNDON,VA,20171,Heritage Foundation,2/1/2012,250,"Romney, Mitt (R)",R
+111,CURTIS,DUBAY,WASHINGTON,DC,20002,Heritage Foundation,10/1/2012,250,"Romney, Mitt (R)",R
+112,EMILY,DUNHAM,ARLINGTON,VA,22206,Heritage Foundation,10/5/2012,250,"Romney, Mitt (R)",R
+113,BECKY,DUNLOP,ARLINGTON,VA,22202,Heritage Foundation,11/3/2012,1000,"Romney, Mitt (R)",R
+113,BECKY,DUNLOP,ARLINGTON,VA,22202,Heritage Foundation,6/12/2012,2500,"Allen, George (R)",R
+113,BECKY NORTON,DUNLOP,ARLINGTON,VA,22202,Heritage Foundation,3/6/2012,1000,Susan B Anthony List ,Other
+113,BECKY NORTON MRS,DUNLOP,ARLINGTON,VA,22202,Heritage Foundation,3/9/2012,500,"Cruz, Ted (R)",R
+114,LEE,EDWARDS,ALEXANDRIA,VA,22315,Heritage Foundation,9/13/2011,300,"Donner, Tim (R)",R
+115,JINYOUNG LEE MRS,ENGLUND,ALEXANDRIA,VA,22305,Heritage Foundation,10/26/2012,275,"Romney, Mitt (R)",R
+116,EDWIN,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,10/17/2012,220,"Walsh, Joe (R)",R
+116,EDWIN,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,3/27/2012,250,"McIntosh, David M (R)",R
+116,EDWIN DR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,9/21/2012,500,"Allen, George (R)",R
+116,EDWIN DR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,12/30/2011,250,"Allen, George (R)",R
+116,EDWIN DR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,4/21/2011,250,"Allen, George (R)",R
+116,EDWIN J,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,4/26/2012,300,House Conservatives Fund (R),R
+116,EDWIN J,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,5/24/2012,300,Alexandria Republican City Cmte (R),R
+116,EDWIN J DR JR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,10/22/2012,250,National Conservative Campaign Fund ,Other
+116,EDWIN J DR JR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,4/21/2011,250,National Conservative Campaign Fund ,Other
+116,EDWIN J JR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,12/22/2011,350,"Walberg, Tim (R)",R
+116,EDWIN J MR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,9/21/2012,500,"Romney, Mitt (R)",R
+116,EDWIN J MR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,5/17/2012,300,"Romney, Mitt (R)",R
+116,EDWIN MR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,9/21/2012,250,"Plummer, Jason (R)",R
+116,EDWIN MR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,3/15/2012,250,Senate Conservatives Fund (R),R
+116,EDWIN MR,FEULNER,ALEXANDRIA,VA,22314,Heritage Foundation,12/29/2011,250,Senate Conservatives Fund (R),R
+117,TODD,GAZIANO,FALLS CHURCH,VA,22044,Heritage Foundation,10/8/2012,250,"Romney, Mitt (R)",R
+117,TODD,GAZIANO,FALLS CHURCH,VA,22044,Heritage Foundation,10/2/2011,250,"McIntosh, David M (R)",R
+117,TODD MR,GAZIANO,FALLS CHURCH,VA,22044,Heritage Foundation,6/29/2011,250,"Cruz, Ted (R)",R
+117,TODD MR,GAZIANO,FALLS CHURCH,VA,22044,Heritage Foundation,4/12/2011,250,"Cruz, Ted (R)",R
+118,OWEN B MR,GRAHAM,WASHINGTON,DC,20008,Heritage Foundation,8/16/2012,1000,"Romney, Mitt (R)",R
+119,STEVEN,GROVES,WASHINGTON,DC,20004,Heritage Foundation,8/15/2012,-550,"Romney, Mitt (R)",R
+119,STEVEN,GROVES,WASHINGTON,DC,20004,Heritage Foundation,8/3/2012,1000,"Romney, Mitt (R)",R
+119,STEVEN,GROVES,WASHINGTON,DC,20004,Heritage Foundation,8/15/2012,550,"Romney, Mitt (R)",R
+119,STEVEN,GROVES,WASHINGTON,DC,20004,Heritage Foundation,1/27/2012,1000,"Romney, Mitt (R)",R
+119,STEVEN,GROVES,WASHINGTON,DC,20004,Heritage Foundation,11/16/2011,500,"Romney, Mitt (R)",R
+120,KIMBERLY MRS,HOLMES,OAKTON,VA,22124,Heritage Foundation,10/17/2012,1000,"Romney, Mitt (R)",R
+121,JOHN BENJAMIN MR IV,HORTON,ARLINGTON,TX,76016,Heritage Foundation,10/10/2012,250,"Romney, Mitt (R)",R
+122,ANNA,HUI,ALEXANDRIA,VA,22310,Heritage Foundation,6/23/2012,250,"Romney, Mitt (R)",R
+123,WALTER MR,LOHMAN,FALLS CHURCH,VA,22043,Heritage Foundation,2/14/2012,1000,"Romney, Mitt (R)",R
+124,DOMINIQUE,LUDVIGSON,ALEXANDRIA,VA,22304,Heritage Foundation,10/3/2012,225,"Romney, Mitt (R)",R
+125,JOHN G MR,MALCOLM,WASHINGTON,DC,20008,Heritage Foundation,9/14/2012,2000,"Romney, Mitt (R)",R
+126,JENNIFER,MARSHALL,ARLINGTON,VA,22202,Heritage Foundation,6/28/2012,500,"Romney, Mitt (R)",R
+126,JENNIFER,MARSHALL,ARLINGTON,VA,22202,Heritage Foundation,8/15/2012,250,"Romney, Mitt (R)",R
+126,JENNIFER,MARSHALL,ARLINGTON,VA,22202,Heritage Foundation,10/28/2012,500,"Romney, Mitt (R)",R
+126,JENNIFER A,MARSHALL,ARLINGTON,VA,22202,Heritage Foundation,4/2/2012,250,Susan B Anthony List ,Other
+126,JENNIFER A,MARSHALL,ARLINGTON,VA,22202,Heritage Foundation,2/26/2012,250,"Feinberg, Evan (R)",R
+127,RICHARD,MCADAMS,WINTER HAVEN,FL,33884,Heritage Foundation,6/11/2012,250,"Romney, Mitt (R)",R
+128,ADAM MR,MIKILIA,ALEXANDRIA,VA,22310,Heritage Foundation,7/31/2011,258,Republican Party of Virginia (R),R
+129,ROBERT E MR,MOFFIT,SEVERNA PARK,MD,21146,Heritage Foundation,9/10/2012,2500,"Romney, Mitt (R)",R
+130,GERALD MR JR,ODRISCOLL,RENO,NV,89511,Heritage Foundation,9/20/2011,200,"Heller, Dean (R)",R
+131,ROBERT ELIOT MR,RECTOR,ANNANDALE,VA,22003,Heritage Foundation,10/8/2012,400,"Romney, Mitt (R)",R
+132,MICHAEL MR,RIGAS,WASHINGTON,DC,20015,Heritage Foundation,10/18/2012,1000,"Romney, Mitt (R)",R
+133,BRYAN,RILEY,WASHINGTON,DC,20002,Heritage Foundation,10/23/2012,250,"Romney, Mitt (R)",R
+133,BRYAN,RILEY,WASHINGTON,DC,20002,Heritage Foundation,10/25/2012,250,"Romney, Mitt (R)",R
+134,BRETT,SCHAEFER,WASHINGTON,DC,20002,Heritage Foundation,10/3/2012,500,"Romney, Mitt (R)",R
+134,BRETT,SCHAEFER,WASHINGTON,DC,20002,Heritage Foundation,6/28/2012,500,"Romney, Mitt (R)",R
+134,BRETT,SCHAEFER,WASHINGTON,DC,20002,Heritage Foundation,11/2/2012,250,"Romney, Mitt (R)",R
+135,NINA,SCHAEFER,WASHINGTON,DC,20002,Heritage Foundation,11/2/2012,250,"Romney, Mitt (R)",R
+135,NINA,SCHAEFER,WASHINGTON,DC,20002,Heritage Foundation,9/26/2012,500,"Romney, Mitt (R)",R
+135,NINA,SCHAEFER,WASHINGTON,DC,20002,Heritage Foundation,6/28/2012,500,"Romney, Mitt (R)",R
+136,JULIA,SHAW,WASHINGTON,DC,20002,Heritage Foundation,4/19/2012,250,"Romney, Mitt (R)",R
+136,JULIA,SHAW,WASHINGTON,DC,20002,Heritage Foundation,9/30/2012,200,"Romney, Mitt (R)",R
+137,JAMES,SHERK,ARLINGTON,VA,22202,Heritage Foundation,6/30/2012,250,"Akin, Todd (R)",R
+137,JAMES,SHERK,ARLINGTON,VA,22202,Heritage Foundation,7/7/2012,250,"Romney, Mitt (R)",R
+137,JAMES,SHERK,ARLINGTON,VA,22202,Heritage Foundation,10/14/2012,200,"Romney, Mitt (R)",R
+137,JAMES,SHERK,ARLINGTON,VA,22202,Heritage Foundation,10/6/2011,500,"Feinberg, Evan (R)",R
+137,JAMES,SHERK,ARLINGTON,VA,22202,Heritage Foundation,3/18/2012,250,"Feinberg, Evan (R)",R
+138,MATTHEW,SPALDING,ARLINGTON,VA,22202,Heritage Foundation,10/16/2012,2500,"Romney, Mitt (R)",R
+139,HERBERT,SPRING,ARLINGTON,VA,22203,Heritage Foundation,7/17/2012,2500,"Romney, Mitt (R)",R
+140,CHARLES,STIMSON,MCLEAN,VA,22102,Heritage Foundation,10/18/2011,1000,Freedom Project (R),R
+140,CHARLES DOUGLAS,STIMSON,FREDERICK,MD,21704,Heritage Foundation,8/14/2012,2500,"Bongino, Daniel (R)",R
+140,CHARLES DOUGLAS MR,STIMSON,MCLEAN,VA,22102,Heritage Foundation,5/16/2011,2500,"Romney, Mitt (R)",R
+140,CULLY MR,STIMSON,MCLEAN,VA,22102,Heritage Foundation,9/23/2011,2375,"Cruz, Ted (R)",R
+140,CULLY MR,STIMSON,MCLEAN,VA,22102,Heritage Foundation,9/23/2011,1000,"Cruz, Ted (R)",R
+141,JIM M SEN,TALENT,CHESTERFIELD,MO,63005,Heritage Foundation,5/16/2011,2500,"Romney, Mitt (R)",R
+142,PHILLIP MR,TRULUCK,BETHESDA,MD,20816,Heritage Foundation,10/27/2011,500,"Thompson, Tommy G (R)",R
+142,PHILLIP N MR,TRULUCK,BETHESDA,MD,20816,Heritage Foundation,10/11/2012,1000,"Romney, Mitt (R)",R
+142,PHILLIP N MR,TRULUCK,BETHESDA,MD,20816,Heritage Foundation,12/30/2011,1000,"Romney, Mitt (R)",R
+143,BRIDGETT G,WAGNER,WASHINGTON,DC,20002,Heritage Foundation,2/1/2012,250,"Mourdock, Richard E (R)",R
+144,STEVEN MR,WAGNER,WASHINGTON,DC,20002,Heritage Foundation,6/27/2011,250,"Pawlenty, Tim (R)",R
+145,RAY,WALSER,RESTON,VA,20191,Heritage Foundation,2/7/2012,250,"Romney, Mitt (R)",R
+146,GENEVIEVE,WOOD,WASHINGTON,DC,20009,Heritage Foundation,8/11/2012,500,"Romney, Mitt (R)",R
+146,GENEVIEVE,WOOD,WASHINGTON,DC,20009,Heritage Foundation,10/4/2012,500,"Romney, Mitt (R)",R
+146,GENEVIEVE,WOOD,WASHINGTON,DC,20009,Heritage Foundation,8/16/2011,250,"Perry, Rick (R)",R
+147,JOSEPHINE T,ALLEN,WASHINGTON,DC,20007,Pew Charitable Trusts,9/28/2011,200,DNC Services Corp (D),D
+148,SHEILA,BAIR,CHEVY CHASE,MD,20815,Pew Charitable Trusts,9/24/2012,1000,"Warren, Elizabeth (D)",D
+148,SHEILA,BAIR,CHEVY CHASE,MD,20815,Pew Charitable Trusts,9/27/2012,1000,"Fischer, Deb (R)",R
+148,SHEILA MS,BAIR,CHEVY CHASE,MD,20815,Pew Charitable Trusts,7/31/2012,1000,"Wilson, Heather A (R)",R
+148,SHEILA MS,BAIR,CHEVY CHASE,MD,20815,Pew Charitable Trusts,10/18/2012,1000,"McMahon, Linda (R)",R
+149,VICTOR E MR JR,BERNSON,MILLERSVILLE,MD,21108,Pew Charitable Trusts,10/12/2012,500,"Romney, Mitt (R)",R
+150,STEPHANIE,BODDIE,WASHINGTON,DC,20002,Pew Charitable Trusts,11/2/2011,600,"Hudson, Heather McTeer (D)",D
+150,STEPHANIE,BODDIE,WASHINGTON,DC,20002,Pew Charitable Trusts,10/2/2011,600,"Hudson, Heather McTeer (D)",D
+151,ERIN D MSW,BONGARD,ARLINGTON,VA,22204,Pew Charitable Trusts,10/28/2012,250,"Murphy, Christopher S (D)",D
+151,ERIN D MSW,BONGARD,ARLINGTON,VA,22204,Pew Charitable Trusts,7/7/2012,250,"Murphy, Christopher S (D)",D
+152,CAROLYN,BRICKEY,FALLS CHURCH,VA,22042,Pew Charitable Trusts,4/18/2011,500,"Harkin, Tom (D)",D
+152,CAROLYN,BRICKEY,FALLS CHURCH,VA,22042,Pew Charitable Trusts,3/2/2012,250,"Murkowski, Lisa (R)",R
+153,BRANDON,BROCKMYER,WASHINGTON,DC,20009,Pew Charitable Trusts,9/6/2012,250,"Obama, Barack (D)",D
+154,DANIEL,CARLAT,NEWBURYPORT,MA,1950,Pew Charitable Trusts,9/7/2012,500,"Obama, Barack (D)",D
+155,ROSA MARIA,CASTANEDA,WASHINGTON,DC,20009,Pew Charitable Trusts,8/27/2012,250,"Obama, Barack (D)",D
+156,SONIA,CHESSEN,CHEVY CHASE,MD,20815,Pew Charitable Trusts,4/18/2011,500,"Harkin, Tom (D)",D
+156,SONIA,CHESSEN,CHEVY CHASE,MD,20815,Pew Charitable Trusts,10/12/2012,1500,"Obama, Barack (D)",D
+156,SONIA,CHESSEN,CHEVY CHASE,MD,20815,Pew Charitable Trusts,10/1/2012,750,"Obama, Barack (D)",D
+156,SONIA,CHESSEN,CHEVY CHASE,MD,20815,Pew Charitable Trusts,6/30/2012,500,"Baldwin, Tammy (D)",D
+157,LEE,CROCKETT,BETHESDA,MD,20817,Pew Charitable Trusts,6/13/2012,250,"Capps, Lois (D)",D
+157,LEE R,CROCKETT,BETHESDA,MD,20817,Pew Charitable Trusts,10/11/2012,500,"Obama, Barack (D)",D
+158,JANE,DANOWITZ,ANNAPOLIS,MD,21401,Pew Charitable Trusts,3/5/2012,250,"Bustos, Cheri (D)",D
+159,SARAH,DESPRES,WASHINGTON,DC,20015,Pew Charitable Trusts,9/2/2012,250,"Donnelly, Joe (D)",D
+159,SARAH,DESPRES,WASHINGTON,DC,20015,Pew Charitable Trusts,9/2/2012,500,"Obama, Barack (D)",D
+159,SARAH,DESPRES,WASHINGTON,DC,20015,Pew Charitable Trusts,9/2/2012,500,"Kaine, Tim (D)",D
+159,SARAH,DESPRES,WASHINGTON,DC,20015,Pew Charitable Trusts,9/23/2012,250,"Baldwin, Tammy (D)",D
+160,DAVID,DREHER,WASHINGTON,DC,20010,Pew Charitable Trusts,4/12/2011,500,"Tester, Jon (D)",D
+161,ERIK,DUMONT,WASHINGTON,DC,20002,Pew Charitable Trusts,8/11/2012,500,"Obama, Barack (D)",D
+162,SANDRA,ESKIN,BETHESDA,MD,20816,Pew Charitable Trusts,4/18/2011,500,"Harkin, Tom (D)",D
+163,COLIN,FINAN,WASHINGTON,DC,20010,Pew Charitable Trusts,8/31/2012,250,"Obama, Barack (D)",D
+164,BYRON JOHN,FRANZEN,WASHINGTON,DC,20002,Pew Charitable Trusts,10/8/2012,1000,"Obama, Barack (D)",D
+165,PETER,GEHRED,WASHINGTON,DC,20003,Pew Charitable Trusts,6/21/2012,600,"Donnelly, Joe (D)",D
+165,PETER,GEHRED,WASHINGTON,DC,20003,Pew Charitable Trusts,3/31/2012,250,"Donnelly, Joe (D)",D
+166,MICHELE,GEHSHAN,BETHESDA,MD,20814,Pew Charitable Trusts,6/28/2012,600,"Obama, Barack (D)",D
+166,MICHELE,GEHSHAN,BETHESDA,MD,20814,Pew Charitable Trusts,6/28/2012,500,Democratic Senatorial Campaign Cmte (D),D
+166,MICHELE,GEHSHAN,BETHESDA,MD,20814,Pew Charitable Trusts,2/22/2012,1000,"Obama, Barack (D)",D
+166,MICHELE,GEHSHAN,BETHESDA,MD,20814,Pew Charitable Trusts,6/28/2012,400,"Obama, Barack (D)",D
+166,MICHELE,GEHSHAN,BETHESDA,MD,20814,Pew Charitable Trusts,6/13/2011,1000,"Obama, Barack (D)",D
+167,DAVID MR,GILLILAND,WASHINGTON,DC,20009,Pew Charitable Trusts,11/4/2012,250,"Romney, Mitt (R)",R
+167,DAVID MR,GILLILAND,WASHINGTON,DC,20009,Pew Charitable Trusts,9/6/2012,1000,"Romney, Mitt (R)",R
+167,DAVID MR,GILLILAND,WASHINGTON,DC,20009,Pew Charitable Trusts,10/30/2012,500,"Romney, Mitt (R)",R
+168,POLITA,GLYNN,SURFSIDE,FL,33154,Pew Charitable Trusts,5/31/2012,200,"Obama, Barack (D)",D
+169,SHELLEY,HEAME,WASHINGTON,DC,20005,Pew Charitable Trusts,4/18/2011,1000,"Harkin, Tom (D)",D
+169,SHELLEY,HEARNE,WASHINGTON,DC,20002,Pew Charitable Trusts,10/21/2012,1000,"Obama, Barack (D)",D
+169,SHELLEY,HEARNE,WASHINGTON,DC,20002,Pew Charitable Trusts,5/9/2012,500,"Obama, Barack (D)",D
+169,SHELLEY,HEARNE,WASHINGTON,DC,20002,Pew Charitable Trusts,6/30/2012,1500,"Baldwin, Tammy (D)",D
+169,SHELLEY A,HEARNE,WASHINGTON,DC,20002,Pew Charitable Trusts,10/30/2012,500,"Baldwin, Tammy (D)",D
+170,MARILYN,HEIMAN,SEATTLE,WA,98109,Pew Charitable Trusts,2/28/2011,300,"Cantwell, Maria (D)",D
+171,ROBERT L MR,HOLSTE,WASHINGTON,DC,20024,Pew Charitable Trusts,7/13/2011,250,"Wilson, Heather A (R)",R
+171,ROBERT L MR,HOLSTE,WASHINGTON,DC,20024,Pew Charitable Trusts,11/5/2012,250,"Wilson, Heather A (R)",R
+171,ROBERT L MR,HOLSTE,WASHINGTON,DC,20024,Pew Charitable Trusts,1/31/2012,500,"Wilson, Heather A (R)",R
+172,GLEN,HOWARD,WASHINGTON,DC,20015,Pew Charitable Trusts,4/16/2012,250,Americans for the Arts ,Other
+173,KIL,HUH,WASHINGTON,DC,20016,Pew Charitable Trusts,10/3/2012,250,"Obama, Barack (D)",D
+173,KIL,HUH,WASHINGTON,DC,20016,Pew Charitable Trusts,9/27/2012,500,"Obama, Barack (D)",D
+173,KIL,HUH,WASHINGTON,DC,20016,Pew Charitable Trusts,10/22/2012,500,"Obama, Barack (D)",D
+174,MATHEW,JACOBSON,AMHERST,MA,1002,Pew Charitable Trusts,12/31/2011,350,"Warren, Elizabeth (D)",D
+175,RICHARD B,JEROME,WASHINGTON,DC,20015,Pew Charitable Trusts,10/4/2012,1000,"Obama, Barack (D)",D
+176,JOSEPH,KENNEDY,FALLS CHURCH,VA,22044,Pew Charitable Trusts,1/29/2012,1000,"Romney, Mitt (R)",R
+176,JOSEPH V MR,KENNEDY,FALLS CHURCH,VA,22044,Pew Charitable Trusts,6/19/2012,1000,"Romney, Mitt (R)",R
+177,ROB,KRUPICKA,ALEXANDRIA,VA,22301,Pew Charitable Trusts,2/1/2011,2500,Democratic Party of Virginia (D),D
+178,TAMERC,LUZZATT,WASHINGTON,DC,20008,Pew Charitable Trusts,7/11/2012,500,"Begich, Mark (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,7/19/2012,1000,"Gillibrand, Kirsten (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,11/29/2011,1000,"Gillibrand, Kirsten (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/23/2011,1000,"Cantwell, Maria (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,2/23/2012,1000,"Kennedy, Joe III (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,11/1/2012,375,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,10/19/2012,375,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/27/2012,500,"Kaine, Tim (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/17/2012,500,"Kaine, Tim (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,3/21/2012,1000,"Kennedy, Joe III (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,6/30/2012,500,"Baldwin, Tammy (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,7/15/2012,1000,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,10/26/2012,375,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/1/2012,500,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/1/2012,500,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,10/12/2012,375,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,6/21/2012,1000,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,6/6/2012,1000,"Kaine, Tim (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/25/2012,375,"Obama, Barack (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,6/15/2011,250,"Speier, Jackie (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,9/26/2012,500,"Baldwin, Tammy (D)",D
+178,TAMERA,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,12/7/2012,1000,"Warren, Elizabeth (D)",D
+178,TAMERA S,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,6/25/2012,2000,"Stabenow, Debbie (D)",D
+178,TAMERA S MS,LUZZATTO,WASHINGTON,DC,20008,Pew Charitable Trusts,3/22/2012,2000,EMILY's List ,Other
+179,SUSAN MRS,MAGILL,ALEXANDRIA,VA,22307,Pew Charitable Trusts,9/21/2012,2000,"Allen, George (R)",R
+180,JAMES T,MAHONEY,MAURERTOWN,VA,22644,Pew Charitable Trusts,11/23/2011,500,"Tester, Jon (D)",D
+180,JAMES T,MAHONEY,MAURERTOWN,VA,22644,Pew Charitable Trusts,6/20/2012,500,"Garamendi, John (D)",D
+180,TIM,MAHONEY,MAURERTOWN,VA,22644,Pew Charitable Trusts,9/30/2011,500,"Tester, Jon (D)",D
+180,TIM,MAHONEY,MAURERTOWN,VA,22644,Pew Charitable Trusts,4/12/2011,1000,"Tester, Jon (D)",D
+180,TIMOTHY,MAHONEY,MAURERTOWN,VA,22644,Pew Charitable Trusts,11/7/2011,500,League of Conservation Voters ,Other
+181,CHRISTOPHER,MANN,WASHINGTON,DC,20010,Pew Charitable Trusts,12/6/2011,250,"Whitehouse, Sheldon (D)",D
+181,CHRISTOPHER G,MANN,WASHINGTON,DC,20010,Pew Charitable Trusts,8/26/2012,500,"Obama, Barack (D)",D
+182,JAMES,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,9/30/2011,250,"Tester, Jon (D)",D
+182,JAMES,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,2/28/2012,250,"Garamendi, John (D)",D
+182,JAMES,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,9/13/2012,250,"Garamendi, John (D)",D
+182,JAMES,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,6/20/2012,1000,"Garamendi, John (D)",D
+182,JAMES H,MATHEWS,WASHINGTON,DC,20004,Pew Charitable Trusts,6/28/2012,250,"Heinrich, Martin (D)",D
+182,JAMES H,MATHEWS,WASHINGTON,DC,20004,Pew Charitable Trusts,9/26/2012,250,"Heinrich, Martin (D)",D
+182,JAMES H,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,3/21/2011,250,"Heinrich, Martin (D)",D
+182,JAMES H,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,7/29/2011,250,"Heinrich, Martin (D)",D
+182,JAMES H,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,2/27/2012,250,"Capps, Lois (D)",D
+182,JAMES H,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,9/20/2012,250,"Capps, Lois (D)",D
+182,JAMES H,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,10/15/2012,500,"Kaine, Tim (D)",D
+182,JAMES H,MATHEWS,ARLINGTON,VA,22205,Pew Charitable Trusts,4/13/2011,1000,Democratic Senatorial Campaign Cmte (D),D
+182,JIM H,MATHEWS,WASHINGTON,DC,20004,Pew Charitable Trusts,2/3/2012,250,"Heinrich, Martin (D)",D
+182,JIM H,MATHEWS,WASHINGTON,DC,20004,Pew Charitable Trusts,3/23/2012,250,"Heinrich, Martin (D)",D
+182,JIM H,MATHEWS,WASHINGTON,DC,20004,Pew Charitable Trusts,12/9/2011,250,"Heinrich, Martin (D)",D
+183,MICHAEL,MATZ,DURANGO,CO,81301,Pew Charitable Trusts,6/29/2012,250,"Heinrich, Martin (D)",D
+183,MICHAEL,MATZ,DURANGO,CO,81301,Pew Charitable Trusts,7/25/2011,250,"Heinrich, Martin (D)",D
+183,MICHAEL,MATZ,DURANGO,CO,81301,Pew Charitable Trusts,3/31/2012,250,"Heinrich, Martin (D)",D
+183,MIKE EDWARD,MATZ,DURANGO,CO,81301,Pew Charitable Trusts,12/21/2011,250,"Pace, Sal (D)",D
+184,CHARLES O,MOORE,ARLINGTON,VA,22203,Pew Charitable Trusts,12/19/2011,500,"Varilek, Matt (D)",D
+185,JAY,NELSON,JUNEAU,AK,99801,Pew Charitable Trusts,12/29/2011,250,"Tester, Jon (D)",D
+186,TOM,NELTNER,SILVER SPRING,MD,20902,Pew Charitable Trusts,4/14/2012,200,"Obama, Barack (D)",D
+187,ERICK D,OLSON,SILVER SPRING,MD,20906,Pew Charitable Trusts,3/1/2012,250,"Murkowski, Lisa (R)",R
+187,ERIK,OLSON,SILVER SPRING,MD,20906,Pew Charitable Trusts,4/20/2011,500,To Organize a Majority PAC (D),D
+188,JONATHAN,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,2/7/2012,300,"Larsen, Rick (D)",D
+188,JONATHAN,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,11/3/2012,250,"Kerrey, Bob (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,9/27/2012,250,"Heck, Dennis (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,10/27/2011,250,"Heck, Dennis (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,10/18/2011,250,"Dicks, Norm (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,10/18/2012,400,"Kilmer, Derek (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,8/24/2011,250,"Dicks, Norm (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,10/8/2012,350,"Kilmer, Derek (D)",D
+188,JONATHAN D,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,11/3/2012,500,"Kilmer, Derek (D)",D
+188,JONATHAN MR,OWEN,SEATTLE,WA,98144,Pew Charitable Trusts,12/17/2012,350,"Reichert, Dave (R)",R
+189,JEFF,PASSEL,ARLINGTON,VA,22207,Pew Charitable Trusts,9/12/2012,200,"Obama, Barack (D)",D
+190,KATHY,PATTERSON,WASHINGTON,DC,20015,Pew Charitable Trusts,9/15/2011,250,"Casey, Bob (D)",D
+191,MARCUS,PEACOCK,WASHINGTON,DC,20002,Pew Charitable Trusts,6/9/2012,250,"Portman, Rob (R)",R
+192,DAVID,POPE,WASHINGTON,DC,20009,Pew Charitable Trusts,2/28/2012,500,"Obama, Barack (D)",D
+193,KEN,RAIT,PORTLAND,OR,97212,Pew Charitable Trusts,7/18/2012,216,"Obama, Barack (D)",D
+194,DONALD,RICHARDSON,CLINTON,AR,72031,Pew Charitable Trusts,10/9/2012,200,"Obama, Barack (D)",D
+194,DONALD,RICHARDSON,CLINTON,AR,72031,Pew Charitable Trusts,11/7/2012,250,"Obama, Barack (D)",D
+195,JOSH,RISING,WASHINGTON,DC,20015,Pew Charitable Trusts,5/3/2012,500,"Varilek, Matt (D)",D
+196,LAURA,ROGERS,WASHINGTON,DC,20008,Pew Charitable Trusts,10/16/2012,250,"Obama, Barack (D)",D
+196,LAURA,ROGERS,WASHINGTON,DC,20008,Pew Charitable Trusts,9/29/2012,250,"Obama, Barack (D)",D
+196,LAURA,ROGERS,WASHINGTON,DC,20008,Pew Charitable Trusts,10/11/2012,250,"Obama, Barack (D)",D
+197,GREG T,ROWE,BERWYN,PA,19312,Pew Charitable Trusts,11/1/2012,212,"Obama, Barack (D)",D
+197,GREG T,ROWE,BERWYN,PA,19312,Pew Charitable Trusts,10/25/2012,212,"Obama, Barack (D)",D
+198,STEPHANIE,RUBIN,AUSTIN,TX,78703,Pew Charitable Trusts,8/22/2012,250,"Obama, Barack (D)",D
+199,KAREN,SACK,BETHESDA,MD,20817,Pew Charitable Trusts,8/14/2012,250,"Obama, Barack (D)",D
+199,KAREN,SACK,BETHESDA,MD,20817,Pew Charitable Trusts,10/19/2012,250,"Obama, Barack (D)",D
+200,CARRIE,SANDSTEDT,DURANGO,CO,81301,Pew Charitable Trusts,12/21/2011,250,"Pace, Sal (D)",D
+200,CARRIE,SANDSTEDT,DURANGO,CO,81301,Pew Charitable Trusts,10/24/2012,250,"Pace, Sal (D)",D
+200,CARRIE,SANDSTEDT,DURANGO,CO,81301,Pew Charitable Trusts,9/12/2012,250,"Horsford, Steven (D)",D
+200,CARRIE,SANDSTEDT,DURANGO,CO,81301,Pew Charitable Trusts,9/30/2011,250,"Heinrich, Martin (D)",D
+201,DANIELLE,SANDSTEDT,DURANGO,CO,81301,Pew Charitable Trusts,3/30/2012,250,"Heinrich, Martin (D)",D
+201,DANIELLE CLAIRE,SANDSTEDT,DURANGO,CO,81301,Pew Charitable Trusts,12/21/2011,250,"Pace, Sal (D)",D
+202,TRACY,SCHARIO JOHNSON,WHITE STONE,VA,22578,Pew Charitable Trusts,10/16/2012,250,"Romney, Mitt (R)",R
+203,DOUGLAS,SCOTT,SEATTLE,WA,98112,Pew Charitable Trusts,4/6/2011,500,"Obama, Barack (D)",D
+203,DOUGLAS,SCOTT,SEATTLE,WA,98112,Pew Charitable Trusts,6/20/2011,500,"Obama, Barack (D)",D
+203,DOUGLAS,SCOTT,SEATTLE,WA,98112,Pew Charitable Trusts,12/23/2011,500,"Obama, Barack (D)",D
+203,DOUGLAS,SCOTT,SEATTLE,WA,98112,Pew Charitable Trusts,2/17/2012,500,"Obama, Barack (D)",D
+204,STEPHEN,SEIDEL,CHEVY CHASE,MD,20815,Pew Charitable Trusts,2/19/2011,250,Progressives United PAC ,Other
+205,FERN,SHEPARD,KENSINGTON,MD,20895,Pew Charitable Trusts,8/23/2012,1000,"Obama, Barack (D)",D
+206,CLAIRE,SHUBIK-RICHARDS,PHILADELPHIA,PA,19146,Pew Charitable Trusts,6/30/2011,700,"Obama, Barack (D)",D
+207,MELISSA,SKOLFIELD,CHEVY CHASE,MD,20815,Pew Charitable Trusts,9/30/2012,250,"Obama, Barack (D)",D
+208,JEREMY M,SMITH,WASHINGTON,DC,20011,Pew Charitable Trusts,10/1/2012,300,"Obama, Barack (D)",D
+209,VELMA,SMITH,FALLS CHURCH,VA,22042,Pew Charitable Trusts,8/31/2012,200,"Obama, Barack (D)",D
+209,VELMA,SMITH,FALLS CHURCH,VA,22042,Pew Charitable Trusts,9/6/2012,250,"Obama, Barack (D)",D
+209,VELMA M,SMITH,FALLS CHURCH,VA,22042,Pew Charitable Trusts,9/5/2012,500,"Warren, Elizabeth (D)",D
+209,VELMA M,SMITH,FALLS CHURCH,VA,22042,Pew Charitable Trusts,9/6/2012,250,"Tester, Jon (D)",D
+209,VELMA MARIE,SMITH,FALLS CHURCH,VA,22042,Pew Charitable Trusts,10/9/2012,500,"Kaine, Tim (D)",D
+210,THOMAS J,ST HILARIE,WASHINGTON,DC,20003,Pew Charitable Trusts,9/26/2012,250,"Heinrich, Martin (D)",D
+210,THOMAS J,ST HILARIE,WASHINGTON,DC,20003,Pew Charitable Trusts,7/23/2012,250,"Heinrich, Martin (D)",D
+211,TED,VAN DER MEID,ARLINGTON,VA,22201,Pew Charitable Trusts,10/25/2012,250,"Rehberg, Denny (R)",R
+212,THEODORE J MR,VANDERMEID,ARLINGTON,VA,22201,Pew Charitable Trusts,10/26/2012,500,"Romney, Mitt (R)",R
+213,ANGELO O,VILLAGOMEZ,SAIPAN,ZZ,96950,Pew Charitable Trusts,5/3/2011,350,"Sablan, Gregorio (D)",D
+214,LAUREN,WECHSLER,WASHINGTON,DC,20002,Pew Charitable Trusts,3/7/2012,250,"Warren, Elizabeth (D)",D
+215,KATHLEEN,WELCH,WASHINGTON,DC,20002,Pew Charitable Trusts,4/17/2012,2500,"Obama, Barack (D)",D
+216,JOSHUA,WENDEROFF,RESTON,VA,20191,Pew Charitable Trusts,6/15/2011,218,"Obama, Barack (D)",D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,260,Democratic Party of Iowa (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,2500,"Obama, Barack (D)",D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,208,New Hampshire Democratic State Cmte (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,2300,"Obama, Barack (D)",D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,832,Democratic Party of Ohio (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,10/16/2012,572,Democratic Party of Virginia (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,312,Democratic Party of Nevada (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,572,Democratic Party of North Carolina (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,676,Democratic Party of Pennsylvania (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,572,Democratic Party of Colorado (D),D
+217,JEFFREY,WISE,CHICAGO,IL,60614,Pew Charitable Trusts,8/22/2012,312,Democratic Party of Wisconsin (D),D
+218,JENNY,YANG,WASHINGTON,DC,20016,Pew Charitable Trusts,8/28/2012,500,"Obama, Barack (D)",D
+218,JENNY,YANG,WASHINGTON,DC,20016,Pew Charitable Trusts,8/1/2012,250,"Obama, Barack (D)",D
+219,ANDREW,ZALMAN,WASHINGTON,DC,20002,Pew Charitable Trusts,6/28/2012,250,"Baldwin, Tammy (D)",D
+220,JAMES,ANDERSON,PITTSBURGH,PA,15217,Rand Corporation,9/19/2012,500,"Obama, Barack (D)",D
+220,JAMES,ANDERSON,PITTSBURGH,PA,15217,Rand Corporation,4/4/2012,500,"Obama, Barack (D)",D
+220,JAMES,ANDERSON,PITTSBURGH,PA,15217,Rand Corporation,1/26/2012,500,DNC Services Corp (D),D
+221,I,BLICKSTEIN,COLUMBIA,MD,21044,Rand Corporation,10/22/2012,500,"Obama, Barack (D)",D
+222,RICHARD,BRENNAN,TEMPE,AZ,85284,Rand Corporation,4/7/2012,1000,"Romney, Mitt (R)",R
+222,RICHARD R DR,BRENNAN,TEMPE,AZ,85284,Rand Corporation,11/8/2012,250,Republican National Cmte (R),R
+223,MATTHEW,CHINMAN,PITTSBURGH,PA,15217,Rand Corporation,8/23/2012,250,"Obama, Barack (D)",D
+224,DEBORAH,COHEN,SANTA MONICA,CA,90405,Rand Corporation,9/12/2012,500,"Obama, Barack (D)",D
+225,REBECCA,COLLINS,LOS ANGELES,CA,90019,Rand Corporation,10/10/2012,275,"Obama, Barack (D)",D
+226,CYNTHIA,COOK,WASHINGTON,DC,20009,Rand Corporation,5/11/2012,1000,"Obama, Barack (D)",D
+227,KEITH WILLIAM,CRANE,ANNANDALE,VA,22003,Rand Corporation,6/27/2012,2500,"Obama, Barack (D)",D
+227,KEITH WILLIAM,CRANE,ANNANDALE,VA,22003,Rand Corporation,7/19/2012,1000,"Kaine, Tim (D)",D
+228,NATALIE MRS,CRAWFORD,MALIBU,CA,90265,Rand Corporation,10/23/2012,2500,Republican National Cmte (R),R
+228,NATALIE W MRS,CRAWFORD,MALIBU,CA,90265,Rand Corporation,10/12/2012,2500,"Romney, Mitt (R)",R
+228,NATALIE W MRS,CRAWFORD,MALIBU,CA,90265,Rand Corporation,6/14/2012,2500,"Romney, Mitt (R)",R
+229,CAROL,EDWARDS,LOS ANGELES,CA,90036,Rand Corporation,8/23/2012,250,"Obama, Barack (D)",D
+229,CAROL,EDWARDS,LOS ANGELES,CA,90036,Rand Corporation,1/13/2012,212,"Obama, Barack (D)",D
+230,DONNA,FOSSOM,ALEXANDRIA,VA,22304,Rand Corporation,6/1/2012,1000,Alexandria Democratic Cmte (D),D
+230,DONNA,FOSSOM,ALEXANDRIA,VA,22304,Rand Corporation,12/7/2011,251,Alexandria Democratic Cmte (D),D
+231,LAURENCE,HANAUER,WASHINGTON,DC,20008,Rand Corporation,8/6/2012,250,"Tierney, John F (D)",D
+231,LAURENCE,HANAUER,WASHINGTON,DC,20008,Rand Corporation,12/30/2011,500,"Obama, Barack (D)",D
+232,SCOTT,HAROLD,BLOOMFIELD HILLS,MI,48304,Rand Corporation,1/4/2012,250,"Obama, Barack (D)",D
+232,SCOTT,HAROLD,BLOOMFIELD HILLS,MI,48304,Rand Corporation,7/2/2012,500,"Obama, Barack (D)",D
+232,SCOTT,HAROLD,BLOOMFIELD HILLS,MI,48304,Rand Corporation,8/12/2012,200,"Obama, Barack (D)",D
+233,AMELIA M,HAVILAND,PITTSBURGH,PA,15206,Rand Corporation,11/15/2011,300,"Obama, Barack (D)",D
+234,KEITH,HENRY,LOS ANGELES,CA,90008,Rand Corporation,8/31/2012,300,"Warren, Elizabeth (D)",D
+234,KEITH,HENRY,LOS ANGELES,CA,90008,Rand Corporation,10/10/2012,250,"Warren, Elizabeth (D)",D
+235,GINA,IKEMOTO,NEWBURYPORT,MA,1950,Rand Corporation,12/23/2011,300,"Obama, Barack (D)",D
+236,MIREILLE,JACOBSON,VENICE,CA,90291,Rand Corporation,10/16/2012,500,"Obama, Barack (D)",D
+237,LISA,JAYCOX,CHEVY CHASE,MD,20815,Rand Corporation,12/23/2011,250,"Obama, Barack (D)",D
+238,DAVID,JOHNSON,FALLS CHURCH,VA,22046,Rand Corporation,4/5/2011,250,Democratic Party of Virginia (D),D
+238,DAVID MR,JOHNSON,FALLS CHURCH,VA,22043,Rand Corporation,4/11/2011,250,"Cantor, Eric (R)",R
+239,SETH,JONES,ALEXANDRIA,VA,22308,Rand Corporation,1/10/2012,250,"Romney, Mitt (R)",R
+240,JEREMY,KAPLAN,MCLEAN,VA,22101,Rand Corporation,9/11/2012,500,"Connolly, Gerry (D)",D
+240,JEREMY,KAPLAN,MC LEAN,VA,22101,Rand Corporation,10/29/2012,500,Dollars for Democrats (D),D
+240,JEREMY,KAPLAN,MCLEAN,VA,22101,Rand Corporation,8/11/2012,1000,Democratic Party of Virginia (D),D
+240,JEREMY,KAPLAN,MC LEAN,VA,22101,Rand Corporation,10/19/2012,2000,"Obama, Barack (D)",D
+240,JEREMY,KAPLAN,MCLEAN,VA,22101,Rand Corporation,11/26/2012,500,Democratic Party of Virginia (D),D
+240,JEREMY M,KAPLAN,MC LEAN,VA,22101,Rand Corporation,9/21/2012,2000,"Obama, Barack (D)",D
+241,IAO,KATAGIRI,LOS ANGELES,CA,90025,Rand Corporation,10/31/2012,1000,"Takano, Mark (D)",D
+241,IAO M,KATAGIRI,LOS ANGELES,CA,90025,Rand Corporation,6/29/2012,2500,"Brownley, Julia (D)",D
+241,IAO M,KATAGIRI,LOS ANGELES,CA,90025,Rand Corporation,10/30/2012,1000,Democratic State Central Cmte/California (D),D
+241,IAO M,KATAGIRI,LOS ANGELES,CA,90025,Rand Corporation,3/26/2012,2500,"Brownley, Julia (D)",D
+242,PAUL,KOEGEL,LOS ANGELES,CA,90004,Rand Corporation,10/12/2012,250,"Obama, Barack (D)",D
+242,PAUL,KOEGEL,LOS ANGELES,CA,90004,Rand Corporation,9/27/2012,500,"Obama, Barack (D)",D
+243,EILEEN L,LA RUSSO,WEST HOLLYWOOD,CA,90069,Rand Corporation,10/24/2012,200,"Obama, Barack (D)",D
+244,F STEPHEN,LARRABEE,WASHINGTON,DC,20007,Rand Corporation,11/28/2011,212,DNC Services Corp (D),D
+245,ROBERT,LEMPERT,PACIFIC PALISADES,CA,90272,Rand Corporation,9/28/2012,250,"Obama, Barack (D)",D
+245,ROBERT,LEMPERT,PACIFIC PALISADES,CA,90272,Rand Corporation,10/28/2012,250,"Obama, Barack (D)",D
+245,ROBERT,LEMPERT,PACIFIC PALISADES,CA,90272,Rand Corporation,11/4/2012,250,"Obama, Barack (D)",D
+245,ROBERT,LEMPERT,PACIFIC PALISADES,CA,90272,Rand Corporation,8/31/2012,250,"Obama, Barack (D)",D
+246,HENRY A,LEONARD,ALEXANDRIA,VA,22307,Rand Corporation,9/7/2012,500,"Kaine, Tim (D)",D
+247,YANG 'BONNY',LIN,ARLINGTON,VA,22202,Rand Corporation,9/16/2012,500,"Obama, Barack (D)",D
+248,JENNIFER,MCCOMBS,ANNANDALE,VA,22003,Rand Corporation,9/1/2012,250,"Obama, Barack (D)",D
+249,THOMAS L,MCNAUGHER,MCLEAN,VA,22101,Rand Corporation,7/15/2011,200,Democratic Senatorial Campaign Cmte (D),D
+250,MICHAEL,MCNERNEY,FALLS CHURCH,VA,22041,Rand Corporation,9/24/2012,250,"Obama, Barack (D)",D
+251,LAUREL,MILLER,WASHINGTON,DC,20008,Rand Corporation,10/24/2012,250,"Obama, Barack (D)",D
+252,RICHARD M DR,MOORE,WOODBRIDGE,VA,22193,Rand Corporation,9/10/2012,250,Republican National Cmte (R),R
+253,ALIREZA,NADER,WASHINGTON,DC,20003,Rand Corporation,10/10/2012,250,"Obama, Barack (D)",D
+254,CHALES,NEMFAKOS,ARLINGTON,VA,22207,Rand Corporation,9/27/2012,500,"Douglass, John (D)",D
+255,OLGA,OLIKER,WASHINGTON,DC,20009,Rand Corporation,9/22/2012,500,"Obama, Barack (D)",D
+256,STUART,OLMSTED,PITTSBURGH,PA,15218,Rand Corporation,10/18/2012,500,"Obama, Barack (D)",D
+257,JOHN,OSUNA,ALEXANDRIA,VA,22307,Rand Corporation,8/17/2012,250,"Romney, Mitt (R)",R
+258,ADELE R,PALMER,LOS ANGELES,CA,90066,Rand Corporation,6/8/2011,300,DNC Services Corp (D),D
+259,MARJORIE,PEARSON,SANTA MONICA,CA,90404,Rand Corporation,10/26/2012,400,"Obama, Barack (D)",D
+260,NAVEENA,PONNUSAMY,WEST HOLLYWOOD,CA,90069,Rand Corporation,9/10/2011,250,"Obama, Barack (D)",D
+261,STEVEN,POPPER,TOPANGA,CA,90290,Rand Corporation,8/30/2012,1500,"Obama, Barack (D)",D
+261,STEVEN,POPPER,TOPANGA,CA,90290,Rand Corporation,8/30/2012,500,"Obama, Barack (D)",D
+261,STEVEN,POPPER,TOPANGA,CA,90290,Rand Corporation,8/30/2012,2000,"Obama, Barack (D)",D
+262,JAMES,POWERS,SANTA MONICA,CA,90403,Rand Corporation,9/3/2012,635,"Obama, Barack (D)",D
+263,AMY,RICHARDSON,WESTPORT,CT,6880,Rand Corporation,10/13/2012,2000,"Obama, Barack (D)",D
+263,AMY F,RICHARDSON,WESTPORT,CT,6880,Rand Corporation,6/2/2012,2500,"McAleer, Donna (D)",D
+263,AMY F,RICHARDSON,WESTPORT,CT,6880,Rand Corporation,6/2/2012,2500,"McAleer, Donna (D)",D
+264,CHARLES P,RIES,WASHINGTON,DC,20008,Rand Corporation,6/1/2011,250,"Esty, Elizabeth (D)",D
+264,CHARLES P,RIES,WASHINGTON,DC,20008,Rand Corporation,8/14/2012,250,"Esty, Elizabeth (D)",D
+265,DAVID W,ROCK,SANTA MONICA,CA,90405,Rand Corporation,9/18/2012,250,"Obama, Barack (D)",D
+265,DAVID W,ROCK,SANTA MONICA,CA,90405,Rand Corporation,10/22/2012,250,"Obama, Barack (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,9/6/2012,1000,"Obama, Barack (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,6/11/2012,1000,"Kaine, Tim (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,8/29/2012,250,"Douglass, John (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,9/22/2011,500,"Douglass, John (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,4/28/2012,250,"Douglass, John (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,12/28/2011,250,"Douglass, John (D)",D
+266,BERNARD,ROSTKER,ARLINGTON,VA,22201,Rand Corporation,2/28/2011,500,Democratic Congressional Campaign Cmte (D),D
+267,MARGARET E,SCHUMACHER,SANTA MONICA,CA,90405,Rand Corporation,9/25/2012,500,"Obama, Barack (D)",D
+267,MARGARET E,SCHUMACHER,SANTA MONICA,CA,90405,Rand Corporation,7/30/2012,500,"Obama, Barack (D)",D
+268,JACK,SEINFELD,LOS ANGELES,CA,90025,Rand Corporation,6/11/2012,250,"Obama, Barack (D)",D
+269,MARK A,SHUSTER,ARCADIA,CA,91006,Rand Corporation,4/28/2011,1200,"Menendez, Robert (D)",D
+270,LISA,SODDERS,LOS ANGELES,CA,90024,Rand Corporation,8/29/2012,300,"Obama, Barack (D)",D
+270,LISA,SODDERS,LOS ANGELES,CA,90024,Rand Corporation,8/6/2012,250,"Obama, Barack (D)",D
+271,SUZANNE,SPAULDING,MCLEAN,VA,22101,Rand Corporation,3/28/2012,250,"Kaine, Tim (D)",D
+271,SUZANNE,SPAULDING,MCLEAN,VA,22101,Rand Corporation,10/22/2012,250,"Kaine, Tim (D)",D
+272,MICHAEL,THIRTLE,HAMPSHIRE,IL,60140,Rand Corporation,1/4/2012,250,"Santorum, Rick (R)",R
+272,MICHAEL,THIRTLE,HAMPSHIRE,IL,60140,Rand Corporation,7/18/2012,250,Special Operations for America ,Other
+272,MIKE,THIRTLE,HAMPSHIRE,IL,60140,Rand Corporation,6/7/2012,250,"Romney, Mitt (R)",R
+272,MIKE,THIRTLE,KIRKLAND,IL,60146,Rand Corporation,8/15/2011,250,"Perry, Rick (R)",R
+272,MIKE,THIRTLE,HAMPSHIRE,IL,60140,Rand Corporation,10/4/2012,250,"Romney, Mitt (R)",R
+273,ANN,WANG,LOS ANGELES,CA,90064,Rand Corporation,4/21/2012,250,"Brownley, Julia (D)",D
+274,ANDREW,WEISS,WASHINGTON,DC,20007,Rand Corporation,9/13/2012,2500,"Obama, Barack (D)",D
+275,KAYLA,WILLIAMS,BROADLANDS,VA,20148,Rand Corporation,9/17/2012,500,"Kaine, Tim (D)",D
+276,HENRY,WILLIS,PITTSBURGH,PA,15217,Rand Corporation,9/6/2012,500,"Obama, Barack (D)",D
+277,JOHN,WINKLER,VIENNA,VA,22182,Rand Corporation,10/17/2012,500,"Romney, Mitt (R)",R
+278,JOHANNA,ZMUD,WASHINGTON,DC,20001,Rand Corporation,1/14/2012,2000,"Obama, Barack (D)",D
+278,JOHANNA,ZMUD,WASHINGTON,DC,20001,Rand Corporation,10/13/2012,500,"Obama, Barack (D)",D
+278,JOHANNA,ZMUD,WASHINGTON,DC,20001,Rand Corporation,10/17/2012,750,"Obama, Barack (D)",D
+278,JOHANNA,ZMUD,WASHINGTON,DC,20001,Rand Corporation,3/20/2012,250,"Obama, Barack (D)",D
+278,JOHANNA,ZMUD,WASHINGTON,DC,20001,Rand Corporation,3/20/2012,250,"Obama, Barack (D)",D
+278,JOHANNA,ZMUD,WASHINGTON,DC,20001,Rand Corporation,3/20/2012,250,"Obama, Barack (D)",D
+279,RUTH G,BELL,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,3/25/2012,2500,"Obama, Barack (D)",D
+280,SARA,BRONNENKANT,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,8/21/2012,250,"Obama, Barack (D)",D
+281,JANE,HARMAN,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,6/8/2011,2500,"Hahn, Janice (D)",D
+282,KENT,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,7/19/2011,500,"Potosnak, Edward III (D)",D
+282,KENT,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,8/23/2012,2375,"Obama, Barack (D)",D
+282,KENT,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,12/30/2011,1375,"Obama, Barack (D)",D
+282,KENT,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,12/11/2011,250,"Potosnak, Edward III (D)",D
+282,KENT,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,9/9/2011,1125,"Obama, Barack (D)",D
+282,KENT,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,10/9/2012,250,"Berman, Howard L (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,2/24/2012,250,"Cardin, Ben (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,9/30/2012,250,"Van Hollen, Chris (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,12/31/2011,250,"Cardin, Ben (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,6/4/2012,200,"Cardin, Ben (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,2/24/2012,250,"Cardin, Ben (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,5/10/2012,1000,"Levin, Sander (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,6/22/2012,750,"Brown, Sherrod (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,8/12/2011,500,"Brown, Sherrod (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,11/7/2011,750,"Brown, Sherrod (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,5/10/2012,500,"Brown, Sherrod (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,7/10/2012,500,"Brown, Sherrod (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,9/18/2012,250,"Warren, Elizabeth (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,2/21/2012,750,"Brown, Sherrod (D)",D
+282,KENT H,HUGHES,BETHESDA,MD,20816,Woodrow Wilson International Center for Scholars,3/28/2012,750,"Brown, Sherrod (D)",D
+283,ROBERT,LITWAK,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,7/30/2012,250,"Obama, Barack (D)",D
+283,ROBERT,LITWAK,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,10/1/2012,250,"Obama, Barack (D)",D
+283,ROBERT,LITWAK,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,10/20/2012,250,"Obama, Barack (D)",D
+284,DAVID,MCKEAN,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,10/18/2011,1000,DNC Services Corp (D),D
+284,DAVID,MCKEAN,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,8/9/2011,2500,"Obama, Barack (D)",D
+284,DAVID,MCKEAN,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,6/15/2011,2500,"Obama, Barack (D)",D
+284,DAVID,MCKEAN,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,4/30/2012,2500,DNC Services Corp (D),D
+285,ANDREW,SELEE,WASHINGTON,DC,20010,Woodrow Wilson International Center for Scholars,11/4/2012,500,"Obama, Barack (D)",D
+285,ANDREW,SELEE,WASHINGTON,DC,20010,Woodrow Wilson International Center for Scholars,4/23/2012,250,"Lugar, Richard G (R)",R
+285,ANDREW,SELEE,WASHINGTON,DC,20004,Woodrow Wilson International Center for Scholars,4/23/2012,1000,"Ducheny, Denise Moreno (D)",D
+286,PHILIPPA,STRUM,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,9/30/2012,250,"Obama, Barack (D)",D
+286,PHILIPPA,STRUM,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,10/26/2012,500,"Obama, Barack (D)",D
+286,PHILIPPA,STRUM,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,7/6/2012,250,"Obama, Barack (D)",D
+286,PHILIPPA,STRUM,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,9/11/2012,250,"Obama, Barack (D)",D
+286,PHILIPPA,STRUM,WASHINGTON,DC,20008,Woodrow Wilson International Center for Scholars,8/8/2012,250,"Obama, Barack (D)",D
