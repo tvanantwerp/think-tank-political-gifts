@@ -30,3 +30,18 @@ These data include political contributions from employees of the [top ten U.S. t
 | Expenses | The expenses reported on the 2012 form 990 filed with the IRS. |
 | Net Income | The net income reported on the 2012 form 990 filed with the IRS. |
 | Net Assets | The net assets reported on the 2012 form 990 filed with the IRS. |
+
+### `think-tank-donation-summary.json
+
+| Variable | Explanation |
+| --- | --- |
+| `name` | The name of the think tank. |
+| `employees` | The number of employees reported on the 2012 form 990 filed with the IRS. |
+| `etod` | The sum of employees for a given think tank who gave to Democrats or Democratic groups. |
+| `etor` | The sum of employees for a given think tank who gave to Republicans or Republican groups. |
+| `etol` | The sum of employees for a given think tank who gave to Libertarians or Libertarian groups. |
+| `etoo` | The sum of employees for a given think tank who gave to other or unknown groups. |
+| `ctod` | The sum of cash contributions for a given think tank's employees which went to Democrats or Democratic groups. |
+| `ctor` | The sum of cash contributions for a given think tank's employees which went to Republicans or Republican groups. |
+| `ctol` | The sum of cash contributions for a given think tank's employees which went to Libertarians or Libertarian groups. |
+| `ctoo` | The sum of cash contributions for a given think tank's employees which went to other or unknown groups. |

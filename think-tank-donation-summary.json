@@ -1,0 +1,122 @@
+[
+	{
+		"name": "Brookings Institution",
+		"employees": 554,
+		"etod": 35,
+		"etor": 3,
+		"etol": 0,
+		"etoo": 2,
+		"ctod": 125158,
+		"ctor": 2200,
+		"ctol": 0,
+		"ctoo": 4000
+	},
+	{
+		"name": "Carnegie Endowment for International Peace",
+		"employees": 135,
+		"etod": 7,
+		"etor": 1,
+		"etol": 0,
+		"etoo": 0,
+		"ctod": 29425,
+		"ctor": 250,
+		"ctol": 0,
+		"ctoo": 0
+	},
+	{
+		"name": "Cato Institute",
+		"employees": 200,
+		"etod": 0,
+		"etor": 7,
+		"etol": 1,
+		"etoo": 1,
+		"ctod": 0,
+		"ctor": 8750,
+		"ctol": 250,
+		"ctoo": 1200
+	},
+	{
+		"name": "Center for American Progress",
+		"employees": 328,
+		"etod": 27,
+		"etor": 0,
+		"etol": 0,
+		"etoo": 2,
+		"ctod": 99997,
+		"ctor": 0,
+		"ctol": 0,
+		"ctoo": 750
+	},
+	{
+		"name": "Center for Strategic and International Studies",
+		"employees": 319,
+		"etod": 7,
+		"etor": 1,
+		"etol": 0,
+		"etoo": 1,
+		"ctod": 6000,
+		"ctor": 1000,
+		"ctol": 0,
+		"ctoo": 2000
+	},
+	{
+		"name": "Council on Foreign Relations",
+		"employees": 399,
+		"etod": 10,
+		"etor": 3,
+		"etol": 0,
+		"etoo": 0,
+		"ctod": 17250,
+		"ctor": 4250,
+		"ctol": 0,
+		"ctoo": 0
+	},
+	{
+		"name": "Heritage Foundation",
+		"employees": 516,
+		"etod": 0,
+		"etor": 45,
+		"etol": 0,
+		"etoo": 4,
+		"ctod": 0,
+		"ctor": 72353,
+		"ctol": 0,
+		"ctoo": 4300
+	},
+	{
+		"name": "Pew Charitable Trusts",
+		"employees": 62,
+		"etod": 35,
+		"etor": 13,
+		"etol": 0,
+		"etoo": 4,
+		"ctod": 89399,
+		"ctor": 12350,
+		"ctol": 0,
+		"ctoo": 3000
+	},
+	{
+		"name": "Rand Corporation",
+		"employees": 52,
+		"etod": 35,
+		"etor": 8,
+		"etol": 0,
+		"etoo": 1,
+		"ctod": 61035,
+		"ctor": 11250,
+		"ctol": 0,
+		"ctoo": 250
+	},
+	{
+		"name": "Woodrow Wilson International Center for Scholars",
+		"employees": 8,
+		"etod": 35,
+		"etor": 1,
+		"etol": 0,
+		"etoo": 0,
+		"ctod": 30325,
+		"ctor": 250,
+		"ctol": 0,
+		"ctoo": 0
+	}
+]
