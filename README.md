@@ -1,6 +1,8 @@
 # Politcal Contributions from Think Tank Employees During the 2012 Election Year
 
-These data include political contributions from employees of the [top ten U.S. think tanks](http://gotothinktank.com/dev1/wp-content/uploads/2014/01/GoToReport2013.pdf) during the 2012 election year. They were [scraped](https://github.com/tvanantwerp/opensecrets-scraper) from [OpenSecrets.org](https://www.opensecrets.org/). These data have been manually cleaned to eliminate duplicate persons and persons who were not actually think tank employees.
+These data include political contributions from employees of the [top ten U.S. think tanks](http://gotothinktank.com/dev1/wp-content/uploads/2014/01/GoToReport2013.pdf) during the 2012 election year. They were [scraped](https://github.com/tvanantwerp/opensecrets-scraper) from [OpenSecrets.org](https://www.opensecrets.org/). These data have been manually cleaned to consolidate duplicate persons and eliminate persons who were not actually think tank employees.
+
+These data were compiled for a blog post examining the [political bias of think tank employees as revealed through their political contribution decisions](http://tomvanantwerp.com/think-tank-partisanship). They were scraped from OpenSecrets.org using a python script available [here](https://github.com/tvanantwerp/opensecrets-scraper).
 
 ## Explanation of Data
 
@@ -31,7 +33,7 @@ These data include political contributions from employees of the [top ten U.S. t
 | Net Income | The net income reported on the 2012 form 990 filed with the IRS. |
 | Net Assets | The net assets reported on the 2012 form 990 filed with the IRS. |
 
-### `think-tank-donation-summary.json
+### `think-tank-donation-summary.json`
 
 | Variable | Explanation |
 | --- | --- |
